@@ -1,0 +1,1358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.oilclothbytheyard.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.oilclothbytheyard.com/collections/other.atom"/>
+  <title>Oilcloth By The Yard</title>
+  <updated>2021-06-18T14:36:20-05:00</updated>
+  <author>
+    <name>Oilcloth By The Yard</name>
+  </author>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/43038032</id>
+    <published>2021-06-18T14:36:20-05:00</published>
+    <updated>2021-06-18T14:36:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/kitchen-red-and-blue"/>
+    <title>Kitchen Red and Blue Oilcloth Fabric</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/Kitchenredblue.jpg?v=1540391838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>Only one yard left!</span></div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00<br> </span></div>
+<div><span>By The Roll - 12 Yards per roll $85.00</span></div>
+<div><span><br> </span></div>
+<div><span><span><span><span><span><span><span></span></span></span></span></span></span></span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cabin</s:tag>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/43038032</id>
+      <title>By The Yard 47&quot; W</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/43038032</id>
+      <title>By The Roll</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/43038802</id>
+    <published>2021-06-18T14:35:55-05:00</published>
+    <updated>2021-06-18T14:35:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/kitchen-green-and-yellow"/>
+    <title>Kitchen Green and Yellow Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/kitchen_yellow_green.png?v=1540391572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 80.00
+            <a href="https://www.oilclothbytheyard.com/products/kitchen-green-and-yellow">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00<br> </span></div>
+<div><span><br> </span></div>
+<div><span><span><span><span><span><span><span>By The Roll - 47" wide - $80.00<br> </span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>(12 Yards per Roll - $6.66 per Yard!)</span></span></span></span></span></span></span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cabin</s:tag>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/43038802</id>
+      <title>By The Yard - 47&quot; Wide</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/43038802</id>
+      <title>By The Roll</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/4663763927137</id>
+    <published>2020-06-12T13:56:39-05:00</published>
+    <updated>2020-06-12T13:56:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/extra-large-oilcloth-grab-bag"/>
+    <title>Extra Large Oilcloth Grab Bag</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/fabric1_3f433cee-a800-401d-b30b-81b49ad5f8d1.jpg?v=1591988221"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div></div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+</div>
+<div>This is a listing for an assortment of oilcloth. It will contain 8-10 yards of fabric for $20.00</div>
+<div>It's a grab bag, so that means you will receive a variety of pieces in varying in shape and size. </div>
+<div>It perfect for when you need less than a yard and or a variety of oilcloth for your project!</div>
+<div></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal Wonderland</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/4663763927137</id>
+      <title>Grab Bag</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2540</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/2078612521057</id>
+    <published>2019-04-24T16:18:21-05:00</published>
+    <updated>2019-04-24T16:18:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/skulls-on-white"/>
+    <title>Skulls on White</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth By The Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/new_skull_print_white_1_0001.jpg?v=1556140668"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth By The Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            12.00 - 85.00
+            <a href="https://www.oilclothbytheyard.com/products/skulls-on-white">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mexican Skulls, Sombreros and Maracas on White Oilcloth Fabric</p>
+<p>100% Genuine Oilcloth, Durable, Waterproof, Washable</p>
+<p>By The Yard - 47" Wide - $12.00 </p>
+<p>By The Roll - 12 Yards $85.00</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/2078612521057</id>
+      <title>By The Yard</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/2078612521057</id>
+      <title>By The Roll</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/2078595874913</id>
+    <published>2019-04-24T16:16:48-05:00</published>
+    <updated>2019-04-24T16:16:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/skulls-on-black"/>
+    <title>Skulls on Black</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth By The Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/new_skull_print_black_2_0001.jpg?v=1556140360"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth By The Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            12.00 - 85.00
+            <a href="https://www.oilclothbytheyard.com/products/skulls-on-black">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Only one piece left!</p>
+<p>Mexican Skulls, Sombreros and Maracas on Black Oilcloth Fabric</p>
+<p>100% Genuine Oilcloth, Durable, Waterproof, Washable</p>
+<p>By The Yard - 47" Wide - $12.00 </p>
+<p>By The Piece 47" x 28" - $10.00</p>
+<p>By The Roll - 12 Yards $85.00</p>
+<p>($7.08 per yard when you buy by the roll!)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/2078595874913</id>
+      <title>By The Yard</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/2078595874913</id>
+      <title>By The Roll</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/2094035566689</id>
+    <published>2019-04-24T16:05:04-05:00</published>
+    <updated>2019-04-24T16:05:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/serape-stripe-navy-blue"/>
+    <title>Serape Stripe Navy Blue</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth By The Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/new_stripe_print_dark_blue_1_0001.jpg?v=1556140038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth By The Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 85.00
+            <a href="https://www.oilclothbytheyard.com/products/serape-stripe-navy-blue">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>So Sophisticated!</p>
+<p>100% Genuine Oilcloth, Durable, Waterproof, Washable</p>
+<p>Simply Wipe Clean with Soapy Sponge</p>
+<p>By The Yard - 47" Wide $10.00 </p>
+<p>By The 12 Yard Roll - $85.00</p>
+<p>(that's $7.08 when you buy by the roll)</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/2094035566689</id>
+      <title>By The Yard</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/2094035566689</id>
+      <title>By The Roll</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/2078547574881</id>
+    <published>2019-04-24T15:57:53-05:00</published>
+    <updated>2019-04-24T15:57:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/serape-stripe-blue"/>
+    <title>Serape Stripe Blue</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth By The Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/new_stripe_print_blue_1_0001.jpg?v=1556139532"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth By The Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 85.00
+            <a href="https://www.oilclothbytheyard.com/products/serape-stripe-blue">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>So Sophisticated!</p>
+<p>100% Genuine Oilcloth, Durable, Waterproof, Washable</p>
+<p>Simply Wipe Clean with Soapy Sponge</p>
+<p>By The Yard - 47" Wide $10.00 </p>
+<p>By The 12 Yard Roll - $85.00</p>
+<p>(that's $7.08 when you buy by the roll)</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/2078547574881</id>
+      <title>By The Yard</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/2078547574881</id>
+      <title>By The Roll</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/2078510219361</id>
+    <published>2019-04-24T15:46:01-05:00</published>
+    <updated>2019-04-24T15:46:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/serape-stripe-pink"/>
+    <title>Serape Stripe Pink</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth By The Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/new_stripe_print_pink_1_0001.jpg?v=1556140272"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth By The Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 85.00
+            <a href="https://www.oilclothbytheyard.com/products/serape-stripe-pink">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>So Sophisticated!</p>
+<meta charset="utf-8">
+<p>100% Genuine Oilcloth, Durable, Waterproof, Washable </p>
+<p>Simply wipe Clean with Soapy Sponge</p>
+<p>By The Yard - 47" Wide $10.00 per yard</p>
+<p>By The Roll - 12 Yards per roll $85.00 per Roll</p>
+<p>($7.08 per yard when you buy by the roll!)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/2078510219361</id>
+      <title>By The Yard</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/2078510219361</id>
+      <title>By The Roll</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/189045281</id>
+    <published>2019-03-16T01:05:24-05:00</published>
+    <updated>2019-03-16T01:05:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/stars-red-and-blue-oilcloth-fabric"/>
+    <title>Red White and Blue Stars Oilcloth Fabric</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/Stars_red.blue.jpg?v=1433385735"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>Only one yard left!</span></div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+<div>
+<span></span><span></span><span>By The Yard - 47" Wide $12.95</span>
+</div>
+</div>
+<div><span> </span></div>
+<div><br></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>star</s:tag>
+    <s:tag>Stars</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/189045281</id>
+      <title>By The Yard</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/271721070619</id>
+    <published>2017-10-27T16:30:52-05:00</published>
+    <updated>2017-10-27T16:30:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/nautical-black-and-red-oilcloth"/>
+    <title>Nautical Black and Red Oilcloth</title>
+    <s:type>fabric</s:type>
+    <s:vendor>Oilcloth By The Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/nautical_black_red_6a51fb4d-83c7-4e72-b297-7425223670f3.png?v=1540394175"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth By The Yard<br>
+        <strong>Type: </strong>fabric<br>
+        <strong>Price: </strong>
+            6.00 - 72.00
+            <a href="https://www.oilclothbytheyard.com/products/nautical-black-and-red-oilcloth">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><br></div>
+<div>100% Genuine Oilcloth Durable, Weatherproof, Washable.</div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $6.00<br></span></div>
+<div><span> </span></div>
+<div><span>By The Roll - 47" wide - $72.00<br></span></div>
+<div><span>(12 Yards per Roll - $6.00 per Yard!)</span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boats</s:tag>
+    <s:tag>coastal</s:tag>
+    <s:tag>nautical</s:tag>
+    <s:tag>sailboat</s:tag>
+    <s:tag>SALE</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/271721070619</id>
+      <title>By The Yard</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>331</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/271721070619</id>
+      <title>By The Roll</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/271659171867</id>
+    <published>2017-10-27T16:12:25-05:00</published>
+    <updated>2017-10-27T16:12:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/nautical-navy-and-red-oilcloth"/>
+    <title>Nautical Navy and Red Oilcloth</title>
+    <s:type>fabric</s:type>
+    <s:vendor>Oilcloth By The Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/nautical_red_navy.png?v=1540394240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth By The Yard<br>
+        <strong>Type: </strong>fabric<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span> Only one piece left!</span></div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00<br></span></div>
+<div>
+<span></span> <span></span><span> </span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boats</s:tag>
+    <s:tag>coastal</s:tag>
+    <s:tag>sailboat</s:tag>
+    <s:tag>SALE</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/271659171867</id>
+      <title>By The Yard</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28389252</id>
+    <published>2017-10-07T14:59:06-05:00</published>
+    <updated>2017-10-07T14:59:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/san-miguel-white-on-purple"/>
+    <title>Day of the Dead White on Purple Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Floral_SanMiguel_WhiteOnPurple.jpg?v=1539960852"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            12.95 - 85.00
+            <a href="https://www.oilclothbytheyard.com/products/san-miguel-white-on-purple">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $12.95</span></div>
+<div><span></span></div>
+<div><span>By The 12 Yard Roll $85.00</span></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Day of the Dead</s:tag>
+    <s:tag>other</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28389252</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28389252</id>
+      <title>By The 12 Yard Roll</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28141042</id>
+    <published>2017-08-21T15:33:02-05:00</published>
+    <updated>2017-08-21T15:33:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/teapot-orange"/>
+    <title>Teapot Orange Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Teapot_Orange.jpg?v=1540479149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 85.00
+            <a href="https://www.oilclothbytheyard.com/products/teapot-orange">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00</span></div>
+<div><span>By The Roll - 12 Yards - $85.00</span></div>
+<div><span></span></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>tea</s:tag>
+    <s:tag>tea cup</s:tag>
+    <s:tag>Teapot</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28141042</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28141042</id>
+      <title>By The Roll</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28140922</id>
+    <published>2017-08-21T15:28:01-05:00</published>
+    <updated>2017-08-21T15:28:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/picnic-purple-yellow"/>
+    <title>Picnic Purple Yellow Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Picnic_Purple_Yellow.jpg?v=1540395403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            6.00 - 60.00
+            <a href="https://www.oilclothbytheyard.com/products/picnic-purple-yellow">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge</span></div>
+<div><span></span></div>
+<div><span></span></div>
+</div>
+<div><span>By The Yard - 47" wide - <em>$6.00</em><br> </span></div>
+<div><span><em>By The Roll - 12 yards $60.00 (that's $5.00 per yard)</em></span></div>
+<div><span><em></em></span></div>
+<div></div>
+<div></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Picnic</s:tag>
+    <s:tag>SALE</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28140922</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28140922</id>
+      <title>By the 12 Yard Roll</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28140892</id>
+    <published>2017-08-21T15:28:00-05:00</published>
+    <updated>2017-08-21T15:28:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/picnic-orange-brown"/>
+    <title>Picnic Orange Brown Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Picnic_Orange_Brown.jpg?v=1540395345"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span></span></div>
+<div></div>
+<div><span></span></div>
+</div>
+<div><span>By The Yard - 47" wide - $6.00<br> </span></div>
+<div><br></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Picnic</s:tag>
+    <s:tag>SALE</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28140892</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28140812</id>
+    <published>2017-08-21T15:27:01-05:00</published>
+    <updated>2017-08-21T15:27:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/picnic-orange-blue"/>
+    <title>Picnic Orange Blue Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Picnic_Orange_Blue.jpg?v=1540395275"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>Only one piece left!</span></div>
+<div><span>Sale on this 100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div></div>
+</div>
+<div>
+<span></span><span></span><span></span><span>By The Piece 47" x 9" - $6.00</span>
+</div>
+<div><span></span></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Picnic</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28140812</id>
+      <title>By The Piece 47&quot; x 9&quot;</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28140762</id>
+    <published>2017-08-21T15:27:01-05:00</published>
+    <updated>2017-08-21T15:27:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/picnic-brown-orange"/>
+    <title>Picnic Brown Orange Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Picnic_Brown_Orange.jpg?v=1540395214"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Only one piece left!</div>
+<div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span> </span></div>
+<div><span></span></div>
+</div>
+<div><span>By The Yard - 47" x 33.5" - $6.00<br> </span></div>
+<div></div>
+<div><em></em></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Picnic</s:tag>
+    <s:tag>SALE</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28140762</id>
+      <title>By The Piece 47 x 33.5&quot;</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28141082</id>
+    <published>2017-06-02T22:20:03-05:00</published>
+    <updated>2017-06-02T22:20:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/teapot-red"/>
+    <title>Teapot Red Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Teapot_Red.jpg?v=1540479198"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            15.95 - 85.00
+            <a href="https://www.oilclothbytheyard.com/products/teapot-red">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By the Yard 47" Wide $10.00</span></div>
+<div><span>By The Piece - 47" x 48.5" - $15.95<br> </span></div>
+<div><span><br> </span></div>
+<div><span><span><span><span><span><span><span>By The Roll - 47" wide - $85.00<br> </span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>(12 Yards per Roll - $7.08 per Yard!)</span></span></span></span></span></span></span></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>tea</s:tag>
+    <s:tag>tea cup</s:tag>
+    <s:tag>Teapot</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28141082</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">15.95</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28141082</id>
+      <title>By The Roll - 47&quot; wide (12 Yards per Roll)</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>Roll</s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/144040657</id>
+    <published>2017-04-11T23:09:00-05:00</published>
+    <updated>2017-04-11T23:09:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/chili-peppers-on-blue"/>
+    <title>Chili Peppers on Blue Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/chilisonblue.jpg?v=1539950177"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 80.00
+            <a href="https://www.oilclothbytheyard.com/products/chili-peppers-on-blue">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>Red Hot Chili Peppers on Blue</span></div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00<br> </span></div>
+<div><span><br> </span></div>
+<div><span><span><span><span><span><span><span>By The Roll - 47" wide - $80.00<br> </span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>(12 Yards per Roll, $6.66 per yard)</span></span></span></span></span></span></span></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue</s:tag>
+    <s:tag>Chili Peppers</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>other</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/144040657</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/144040657</id>
+      <title>By The Roll - 47&quot; wide (12 Yards per Roll)</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>Roll</s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28141002</id>
+    <published>2017-03-07T11:57:00-06:00</published>
+    <updated>2017-03-07T11:57:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/teapot-gold"/>
+    <title>Teapot Tan Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Teapot_Gold.jpg?v=1540479238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 85.00
+            <a href="https://www.oilclothbytheyard.com/products/teapot-gold">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00<br> </span></div>
+<div><span><br> </span></div>
+<div><span><span><span><span><span><span><span>By The Roll - 47" wide - $85.00<br> </span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>(12 Yards per Roll - $7.08 per Yard!)</span></span></span></span></span></span></span></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beige</s:tag>
+    <s:tag>khaki</s:tag>
+    <s:tag>SALE</s:tag>
+    <s:tag>tea</s:tag>
+    <s:tag>tea cup</s:tag>
+    <s:tag>tea cups</s:tag>
+    <s:tag>Teapot</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28141002</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28141002</id>
+      <title>By The Roll - 47&quot; wide (12 Yards per Roll)</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>Roll</s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/4172090628</id>
+    <published>2016-11-16T21:50:00-06:00</published>
+    <updated>2016-11-16T21:50:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/crazy-quilt-in-purple-oilcloth-by-the-yard"/>
+    <title>Crazy Quilt in Purple Oilcloth By The Yard</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/Crazy_Quilt_Purple_Web.jpg?v=1539959594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 80.00
+            <a href="https://www.oilclothbytheyard.com/products/crazy-quilt-in-purple-oilcloth-by-the-yard">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00<br></span></div>
+<div><span> </span></div>
+<div><span><span><span><span><span><span><span>By The Roll - 47" wide - $80.00<br></span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>12 Yards per Roll, $6.66 per yard!</span></span></span></span></span></span></span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>crazy quilt</s:tag>
+    <s:tag>other</s:tag>
+    <s:tag>purple</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/4172090628</id>
+      <title>By The Yard (47&quot; Wide)</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/4172090628</id>
+      <title>By The 12 Yard Roll</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/4172110084</id>
+    <published>2016-11-16T21:49:00-06:00</published>
+    <updated>2016-11-16T21:49:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/crazy-quilt-green-oilcloth-by-the-yard"/>
+    <title>Crazy Quilt Green Oilcloth By The Yard</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/Crazy_Quilt_Green_Web.jpg?v=1539959487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 80.00
+            <a href="https://www.oilclothbytheyard.com/products/crazy-quilt-green-oilcloth-by-the-yard">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00<br></span></div>
+<div><span> </span></div>
+<div><span><span><span><span><span><span><span>By The Roll - 47" wide - $80.00<br></span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>(12 Yards per Roll - $6.66 per Yard!)</span></span></span></span></span></span></span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>crazy quilt</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>other</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/4172110084</id>
+      <title>By The Yard 47&quot; wide</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/4172110084</id>
+      <title>By The Roll (12 Yards)</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/4172059908</id>
+    <published>2016-11-16T21:49:00-06:00</published>
+    <updated>2016-11-16T21:49:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/crazy-quilt-in-blue-oilcloth-by-the-yard"/>
+    <title>Crazy Quilt in Blue Oilcloth By The Yard</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth By The Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/Crazy_Quilt_Blue_Web_2.jpg?v=1539959516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth By The Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 80.00
+            <a href="https://www.oilclothbytheyard.com/products/crazy-quilt-in-blue-oilcloth-by-the-yard">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00<br></span></div>
+<div><span> </span></div>
+<div><span><span><span><span><span><span><span>By The Roll - 47" wide - $80.00<br></span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>12 Yards per Roll, $6.66 per yard!</span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span></span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>By The Piece 47 x 42"</span></span></span></span></span></span></span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue</s:tag>
+    <s:tag>crazy quilt</s:tag>
+    <s:tag>other</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/4172059908</id>
+      <title>By The Piece 47 x 42&quot;</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/4172059908</id>
+      <title>By The Yard ( 47&quot; Wide)</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/4172059908</id>
+      <title>By The 12 Yard Roll</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/4173372804</id>
+    <published>2016-01-13T22:06:00-06:00</published>
+    <updated>2016-01-13T22:06:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/menagerie-in-pink-oilcloth"/>
+    <title>Menagerie in Pink Oilcloth By The Yard</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/New_Animal_Pink_Web.jpg?v=1540392553"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 85.00
+            <a href="https://www.oilclothbytheyard.com/products/menagerie-in-pink-oilcloth">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">100% Genuine Oilcloth Durable, Weatherproof, Washable.<br>Simply Wipe Clean With Soapy Sponge!<br> <br>By The Yard - 47" wide - $10.00<br> <br>By The Roll - 47" wide - $85.00<br>(12 Yards per Roll - $7.08 per Yard!)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/4173372804</id>
+      <title>By The Yard - 47&quot; Wide</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/4173372804</id>
+      <title>By The Roll - 12 Yards</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/4173365316</id>
+    <published>2016-01-13T22:02:00-06:00</published>
+    <updated>2016-01-13T22:02:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/menagerie-in-lime-oilcloth-by-the-yard"/>
+    <title>Menagerie in Lime Oilcloth By The Yard</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/New_Animal_Lime_Web.jpg?v=1540392515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% Genuine Oilcloth Durable, Weatherproof, Washable.<br>Simply Wipe Clean With Soapy Sponge!<br> <br>By The Yard  - 47" wide $12.00 sold out</p>
+<p><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/4173365316</id>
+      <title>By The Yard - 47&quot; Wide</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+</feed>

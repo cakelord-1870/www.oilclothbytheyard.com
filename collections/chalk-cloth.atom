@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.oilclothbytheyard.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.oilclothbytheyard.com/collections/chalk-cloth.atom"/>
+  <title>Oilcloth By The Yard</title>
+  <updated>2011-05-27T21:20:53-05:00</updated>
+  <author>
+    <name>Oilcloth By The Yard</name>
+  </author>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/42430472</id>
+    <published>2011-05-27T21:20:53-05:00</published>
+    <updated>2011-05-27T21:20:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/liquid-chalk-markers"/>
+    <title>Chalk Markers</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/white-6mm-zig-posterman-wet-wipe-liquid-chalkboard-pens-523-pekm142x300ekm.jpg?v=1539949238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is our Favorite!</p>
+<p>We've tested them - Sage has tested them all!</p>
+<p>Zig Posterman works the best, easy to use, easy to erase, simply use wet cloth to erase!</p>
+<p> Unlike regular chalk, it doesn't crumble or break!</p>
+<p> </p>
+<p>We have lots of colors in stock, give us a call for color ways!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chalk Fabric</s:tag>
+    <s:tag>Chalk Marker</s:tag>
+    <s:tag>marker</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/42430472</id>
+      <title>White</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/42430472</id>
+      <title>Red</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/42430472</id>
+      <title>Burgundy</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/42430472</id>
+      <title>Orange</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/42430472</id>
+      <title>Mango</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/42430472</id>
+      <title>Yellow</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/42430472</id>
+      <title>Buttercup</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/42430472</id>
+      <title>Green</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/42430472</id>
+      <title>Avocado Green</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/42430472</id>
+      <title>Metallic Green</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/42430472</id>
+      <title>Blue</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/42430472</id>
+      <title>Light Blue</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/42430472</id>
+      <title>Metallic Blue</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/42430472</id>
+      <title>Purple</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/42430472</id>
+      <title>Metallic Purple</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/42430472</id>
+      <title>Pink</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/42430472</id>
+      <title>Metallic Pink</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/42430472</id>
+      <title>Silver</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/42430472</id>
+      <title>Gold</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28139952</id>
+    <published>2010-12-10T14:31:00-06:00</published>
+    <updated>2010-12-10T14:31:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/chalk-cloth-black"/>
+    <title>Chalk Fabric Black</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/chalkfabric.jpg?v=1539949166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            6.00 - 450.00
+            <a href="https://www.oilclothbytheyard.com/products/chalk-cloth-black">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div>Use with regular chalk or our awesome liquid chalk markers!</div>
+<div>Perfect for tablecloths, upholstery, labels, clothing, bags and all of your projects!</div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $12.00<br> </span></div>
+<div><span></span></div>
+<div><span>By The Half Yard - 47 wide $6.00</span></div>
+<div><span><br> </span></div>
+<div><span><span><span><span><span><span><span>By The Roll - 47" wide - $110.00<br> </span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>(12 Yards per Roll - $9.16 per Yard!)</span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span></span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>By The Large Roll 47" wide - $450.00</span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>(55 Yards per Roll - $8.18 per Yard)</span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span> <br> </span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span> </span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>* We recommend shipping chalk fabric on a roll with UPS to prevent creases. <br> </span></span></span></span></span></span></span></div>
+<div>
+<div></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>basic</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>Chalk fabric</s:tag>
+    <s:tag>plain</s:tag>
+    <s:tag>solid</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28139952</id>
+      <title>By The Half Yard - 47&quot; Wide</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28139952</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28139952</id>
+      <title>By The Roll - 47&quot; wide (12 Yards per Roll)</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>Roll</s:sku>
+      <s:grams>7484</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28139952</id>
+      <title>By The Large Roll - 55 Yards</title>
+      <s:price currency="USD">450.00</s:price>
+      <s:sku>Roll</s:sku>
+      <s:grams>28576</s:grams>
+    </s:variant>
+  </entry>
+</feed>

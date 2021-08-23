@@ -1,0 +1,907 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.oilclothbytheyard.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.oilclothbytheyard.com/collections/kits.atom"/>
+  <title>Oilcloth By The Yard</title>
+  <updated>2020-06-12T13:56:39-05:00</updated>
+  <author>
+    <name>Oilcloth By The Yard</name>
+  </author>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/4663763927137</id>
+    <published>2020-06-12T13:56:39-05:00</published>
+    <updated>2020-06-12T13:56:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/extra-large-oilcloth-grab-bag"/>
+    <title>Extra Large Oilcloth Grab Bag</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/fabric1_3f433cee-a800-401d-b30b-81b49ad5f8d1.jpg?v=1591988221"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div></div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+</div>
+<div>This is a listing for an assortment of oilcloth. It will contain 8-10 yards of fabric for $20.00</div>
+<div>It's a grab bag, so that means you will receive a variety of pieces in varying in shape and size. </div>
+<div>It perfect for when you need less than a yard and or a variety of oilcloth for your project!</div>
+<div></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal Wonderland</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/4663763927137</id>
+      <title>Grab Bag</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2540</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/413009805339</id>
+    <published>2017-12-07T12:11:57-06:00</published>
+    <updated>2017-12-07T12:11:57-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/diy-picnic-quilt"/>
+    <title>DIY Picnic Quilt</title>
+    <s:type>Kits</s:type>
+    <s:vendor>Oilcloth By The Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/quilt_listing.jpg?v=1539960949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth By The Yard<br>
+        <strong>Type: </strong>Kits<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Make your picnic quilt or tablecloth quilt. Comes with lots of fun prints and is so easy to clean!</p>
+<p>This kit includes pattern, instructions and coordinating oilcloth to make one picnic quilt.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>kits</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/413009805339</id>
+      <title>DIY Picnic Mat Kit</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/394181607451</id>
+    <published>2017-12-01T16:55:10-06:00</published>
+    <updated>2017-12-01T16:55:10-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/whats-for-dinner-placemat-pattern"/>
+    <title>EvaPaige Quilt Designs What&apos;s For Dinner? Placemat Pattern</title>
+    <s:type>Kits</s:type>
+    <s:vendor>Oilcloth By The Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/market_bag_1.jpeg?v=1540487385"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth By The Yard<br>
+        <strong>Type: </strong>Kits<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This pattern is perfect for making these adorable placemats, that actually teach your kids how to set a table.</p>
+<p>Easy to make and fun to do!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>kit</s:tag>
+    <s:tag>Kitchen</s:tag>
+    <s:tag>pattern</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/394181607451</id>
+      <title>Pattern &amp; fabric</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/394318807067</id>
+    <published>2017-12-01T16:23:12-06:00</published>
+    <updated>2017-12-01T16:23:12-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/valeries-purse-pattern"/>
+    <title>Totes by Sandy Valerie&apos;s Purse Pattern</title>
+    <s:type>Pattern</s:type>
+    <s:vendor>Oilcloth By The Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/valeries_purse.jpeg?v=1540488071"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth By The Yard<br>
+        <strong>Type: </strong>Pattern<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The finished size of this bag is 10" x 13" x 4"</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bag</s:tag>
+    <s:tag>Kit</s:tag>
+    <s:tag>pattern</s:tag>
+    <s:tag>purse</s:tag>
+    <s:tag>Tote</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/394318807067</id>
+      <title>Pattern</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/394345742363</id>
+    <published>2017-12-01T16:13:05-06:00</published>
+    <updated>2017-12-01T16:13:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/mama-mia-diaper-bag-change-pad-pattern"/>
+    <title>Favorite Things Mama Mia Pattern</title>
+    <s:type>Pattern</s:type>
+    <s:vendor>Oilcloth By The Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/mama_mia.jpeg?v=1540392392"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth By The Yard<br>
+        <strong>Type: </strong>Pattern<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Finished dimensions:</p>
+<p>14" x 20" x 9"</p>
+<p>23" x 20"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bag</s:tag>
+    <s:tag>Kit</s:tag>
+    <s:tag>pattern</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/394345742363</id>
+      <title>Pattern</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/394315726875</id>
+    <published>2017-12-01T16:09:51-06:00</published>
+    <updated>2017-12-01T16:09:51-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/ring-around-apron-pattern"/>
+    <title>Indygo Junction Ring Around Apron Pattern</title>
+    <s:type>Pattern</s:type>
+    <s:vendor>Oilcloth By The Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/ring_around.jpeg?v=1540399266"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth By The Yard<br>
+        <strong>Type: </strong>Pattern<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>S/M size measures: 19.5" across, 21.5" long</p>
+<p>M/L size measures 23.5" across, 25" long</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apron</s:tag>
+    <s:tag>Kit</s:tag>
+    <s:tag>pattern</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/394315726875</id>
+      <title>Pattern</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/394324541467</id>
+    <published>2017-12-01T16:05:04-06:00</published>
+    <updated>2017-12-01T16:05:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/grids-and-grommets-bag-pattern"/>
+    <title>Grids and Grommets Bag Pattern</title>
+    <s:type>Pattern</s:type>
+    <s:vendor>Oilcloth By The Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/grids_and_grommets.jpeg?v=1540331437"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth By The Yard<br>
+        <strong>Type: </strong>Pattern<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pattern makes 4 sizes:</p>
+<p>9" x 7.5" 8"</p>
+<p>11" x 13" x 5"</p>
+<p>14" x 13" x 8"</p>
+<p>16" x 15" x 7"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bag</s:tag>
+    <s:tag>Kit</s:tag>
+    <s:tag>pattern</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/394324541467</id>
+      <title>Pattern</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/394184753179</id>
+    <published>2017-12-01T15:08:00-06:00</published>
+    <updated>2017-12-01T15:08:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/oilcloth-market-bag-pattern"/>
+    <title>Hemma Design Sigrid Oilcloth Market Bag Pattern</title>
+    <s:type>Kits</s:type>
+    <s:vendor>Oilcloth By The Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/market_bag.jpeg?v=1512164823"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth By The Yard<br>
+        <strong>Type: </strong>Kits<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p>Finished size is 14"x 15.5" x 7"</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diy</s:tag>
+    <s:tag>kit</s:tag>
+    <s:tag>market bag</s:tag>
+    <s:tag>pattern</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/394184753179</id>
+      <title>Pattern</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/322218655771</id>
+    <published>2017-11-14T14:54:24-06:00</published>
+    <updated>2017-11-14T14:54:24-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/diy-travel-bag"/>
+    <title>DIY Travel Bag</title>
+    <s:type>Diy Kit</s:type>
+    <s:vendor>Freckled Sage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/Travel-Zipper-Pouch-Kit-FRONT-Page_copy.jpg?v=1539960984"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Freckled Sage<br>
+        <strong>Type: </strong>Diy Kit<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Make your own travel or cosmetic bag. This bag has 4 pockets and a zipper closure. Since it's all oilcloth it is easy to clean and super cute too!</p>
+<p>This kit includes pattern, instructions and coordinating oilcloth to make one travel bag.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>kits</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/322218655771</id>
+      <title>DIY Travel Bag Kit</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/197353013275</id>
+    <published>2017-10-13T13:54:37-05:00</published>
+    <updated>2017-10-13T13:54:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/halloween-mantel-scarf-kit"/>
+    <title>Freckled Sage Halloween Mantel Scarf Kit</title>
+    <s:type>Kits</s:type>
+    <s:vendor>Oilcloth By The Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/mantel_scarf_leaflet_outside9.jpg?v=1540229502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth By The Yard<br>
+        <strong>Type: </strong>Kits<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Do-It-Yourself Halloween Mantel Scarf</p>
+<p>Dress up your mantel for Halloween with this cute, easy-to-make mantel scarf kit!</p>
+<p>Includes instructions and an assortment of fun Halloween prints for one mantel scarf!</p>
+<p>Designed by Freckled Sage with you in mind!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>decoration</s:tag>
+    <s:tag>diy</s:tag>
+    <s:tag>fireplace</s:tag>
+    <s:tag>halloween</s:tag>
+    <s:tag>Kit</s:tag>
+    <s:tag>mantel</s:tag>
+    <s:tag>mantel scarf</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/197353013275</id>
+      <title>DIY Halloween Mantel Kit</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/3771632900</id>
+    <published>2015-11-29T23:00:00-06:00</published>
+    <updated>2015-11-29T23:00:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/diy-chalk-runner"/>
+    <title>Freckled Sage DIY Chalk Runner Kit</title>
+    <s:type>Kits</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/Chalk_runner_grande_2abf5c44-6ee6-42ae-b505-4a51fa1e797e.jpg?v=1540229237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Kits<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Kit, designed by Freckled Sage, makes one Chalk Runner!</p>
+<p>Perfect  use for all of your holidays. Includes one liquid chalk marker that dries quickly and won't erase or rub off without water. Perfect for labeling buffets, place settings, wine and cheese, the uses are endless. It also has a retro feel, so it's perfect as a gift for hostess, student, busy kids!</p>
+<p>Put one on your dining room table, use one on the kids table to keep them occupied. Use it to leave a note for Santa, dorm rooms, holiday banner.</p>
+<p>Includes, fabric, instructions and one liquid chalk marker(works with regular chalk too) to make one runner approx 14"x 72"</p>
+<p>Perfect for the holidays, easy to make and use! Sewing optional! Perfect for hostess gift, great for dorms, holiday tables, etc</p>
+<p>DIY Kit Chalk Runner with Marker $25.00</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/3771632900</id>
+      <title>Chalk Runner Kit</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1089</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/3771548804</id>
+    <published>2015-11-24T17:47:00-06:00</published>
+    <updated>2015-11-24T17:47:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/diy-christmas-placemats"/>
+    <title>Freckled Sage DIY Christmas Placemats or Runner Kit</title>
+    <s:type>Kits</s:type>
+    <s:vendor>Oilcloth By The Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/f4f259ee-f349-4f5a-8d1d-ff572b477c54.jpg?v=1576548575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth By The Yard<br>
+        <strong>Type: </strong>Kits<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This kit designed by Freckled Sage,  provides enough fabric and instructions to make 2 finished double sided placemats or one double-sided runner!</p>
+<p>Perfect for hostess gift or your holiday table! Easy sewing instructions, perfect DIY kit for Teens!</p>
+<p>Requires minimal sewing skills!</p>
+<p>Choose from:</p>
+<p>Christmas Stars on Red with Dot Gold</p>
+<p>Christmas Stars on Green with Red Gingham</p>
+<p>Christmas Stars on Green with Red Dot</p>
+<p>Christmas Stars on Blue with Gold Gingham</p>
+<p>$12.00 per kit</p>
+<p>While Supplies Last</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/3771548804</id>
+      <title>Stars on Green/Red Gingham</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/3771548804</id>
+      <title>Stars on Red/Dot Gold</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/3771548804</id>
+      <title>Stars on Blue/Gold Gingham</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/3771548804</id>
+      <title>Stars on Green/Dot Red</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/389834940</id>
+    <published>2014-12-04T13:33:00-06:00</published>
+    <updated>2014-12-04T13:33:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/oilcloth-grab-bag"/>
+    <title>Oilcloth Grab Bag</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/fabric1.jpg?v=1540394331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div></div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+</div>
+<div>This is a listing for an assortment of oilcloth. It will contain up to 2 yards of fabric for $12.00</div>
+<div>It's a grab bag, so that means you will receive a variety of pieces in size from 5" to 35"</div>
+<div>It perfect for when you need less than a yard and or a variety!</div>
+<div></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal Wonderland</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/389834940</id>
+      <title>Grab Bag</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/58438232</id>
+    <published>2011-10-08T14:16:00-05:00</published>
+    <updated>2011-10-08T14:16:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/envelope-pouch-kit"/>
+    <title>Envelope Pouch Oilcloth Kit</title>
+    <s:type>Kits</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/EnvelopePOUCH.jpg?v=1539964337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Kits<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These pouches are so versitile!</p>
+<p>They are easy and fun to make!</p>
+<p>So many uses!</p>
+<p>Perfect for gift giving!</p>
+<p>Included in kit:</p>
+<p>Pattern, instructions, assorted coordinated oilcloth fabric, hook and loop to make two lined pouches!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kit</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/58438232</id>
+      <title>Envelope Pouch Kit</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/58435232</id>
+    <published>2011-10-08T14:11:31-05:00</published>
+    <updated>2011-10-08T14:11:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/diy-pennant-kit"/>
+    <title>DIY Pennant Kit</title>
+    <s:type>Kits</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/picture_9.png?v=1539960903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Kits<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Everything you need to make your own 10 foot Pennant!</p>
+<p>Perfect party decoration! </p>
+<p>Great for outdoor celebrations, tailgating etc!</p>
+<p>This kit will make one 10 foot pennant plus extra for tying or pinning!</p>
+<p>Comes with everything you need - Pattern, instructions, assorted oilcloth fabric, as well as fabric to make your own bias. All included.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>kits</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/58435232</id>
+      <title>Pennant Kit</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/58420302</id>
+    <published>2011-10-08T13:48:00-05:00</published>
+    <updated>2011-10-08T13:48:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/messenger-bag-kit"/>
+    <title>Messenger Bag Kit</title>
+    <s:type>Kits</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/picture_6.png?v=1540392654"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Kits<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Everything you need to make your own unique Messenger Bag!</p>
+<p>This kit come with:</p>
+<p>Pattern, instructions, assorted coordinated oilcloth fabric, webbing, strap,  clip, closure and velcro</p>
+<p>to make one cool bag! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kit</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/58420302</id>
+      <title>Messenger Bag Kit</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/41814982</id>
+    <published>2011-05-22T16:17:37-05:00</published>
+    <updated>2011-05-22T16:17:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/market-bag-kit"/>
+    <title>Freckled Sage DIY Market Bag Kit</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/bagGroup_03.jpg?v=1540229418"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Do it Yourself Market Bag</p>
+<p>Perfect for gift giving, hostess gift! Your making for yourself and using at the farmers market, the grocery store or anytime you don't want to use a grocery bag! Designed by Freckled Sage, the oilcloth experts, with you in mind!</p>
+<p>Kit includes: </p>
+<p>Pattern, Instructions, Assorted Coordinating Oilcloth Fabric to make your own  Market bag! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kit</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/41814982</id>
+      <title>Market Bag</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/41814922</id>
+    <published>2011-05-22T16:16:06-05:00</published>
+    <updated>2011-05-22T16:16:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/lunch-bag-kit"/>
+    <title>Lunch Bag Kit</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/Picture_5.png?v=1540392191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Do it Yourself Lunch Bag </p>
+<p>Pattern, instructions and coordinating fabric included! We have a huge selecrtion of precut lunch bag kits available! Toiles, floral, fruit, faux bois (woodgrain) all with coordinating gingham or dots!</p>
+<p>Use the pull down menu to select your print or let us choose for you!</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kit</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/41814922</id>
+      <title>We Pick for You</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/41814922</id>
+      <title>Rose and Grid</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/41814922</id>
+      <title>Toile Brown</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/41814922</id>
+      <title>Plaid Pink and Lime</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/41814922</id>
+      <title>Strawberry Pink</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/41814922</id>
+      <title>Cherry Pink</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/41814922</id>
+      <title>Old Apple Blue</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/41814922</id>
+      <title>Mum Red</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/41814922</id>
+      <title>Toile Blue</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/41814922</id>
+      <title>Mod Apple Green</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/41814922</id>
+      <title>Cherry Aqua</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/41814682</id>
+    <published>2011-05-22T16:10:00-05:00</published>
+    <updated>2011-05-22T16:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/zipper-pouch-kit"/>
+    <title>Zipper Pouch Kit</title>
+    <s:type>Kits</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/Picture_7.png?v=1540487302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Kits<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fun and easy to make Pouch kit</p>
+<p>Great for parties, gifts, school projects</p>
+<p>Kit includes the following:</p>
+<p>Coordinating Oilcloth Fabric to make one pouch, zipper, pattern and instructions!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>kit</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/41814682</id>
+      <title>Zipper Pouch Kit</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

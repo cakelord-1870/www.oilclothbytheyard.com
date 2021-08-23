@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.oilclothbytheyard.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.oilclothbytheyard.com/collections/faux-bois.atom"/>
+  <title>Oilcloth By The Yard</title>
+  <updated>2017-10-12T11:15:43-05:00</updated>
+  <author>
+    <name>Oilcloth By The Yard</name>
+  </author>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/187763392539</id>
+    <published>2017-10-12T11:15:43-05:00</published>
+    <updated>2017-10-12T11:15:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/faux-bois-plank-mesquite-oilcloth-fabric"/>
+    <title>Faux Bois - Plank Mesquite Oilcloth Fabric</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/mesquite_2.jpg?v=1539964918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            5.00 - 80.00
+            <a href="https://www.oilclothbytheyard.com/products/faux-bois-plank-mesquite-oilcloth-fabric">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>This incredibly realistic wood print is perfect for all of your needs.</div>
+<div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00<br> </span></div>
+<div><span><br> </span></div>
+<div><span><span><span><span><span><span><span>By The Roll - 47" wide - $80.00<br> </span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>(12 Yards per Roll, $6.66 per yard)</span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span></span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>By The Piece:</span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>47 x 16"</span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>19.5 x 99.5"</span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>19 x 100"</span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>These pieces are great for runners or shelf liners!</span></span></span></span></span></span></span></div>
+<div>
+<div></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Faux Bois Plank</s:tag>
+    <s:tag>wood</s:tag>
+    <s:tag>wood grain</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/187763392539</id>
+      <title>By The Piece 47 x 16&quot;</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/187763392539</id>
+      <title>By The Piece 19.5 x 99.5&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/187763392539</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/187763392539</id>
+      <title>By The Roll - 47&quot; wide (12 Yards per Roll)</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>Roll</s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/187763392539</id>
+      <title>By The Piece 19&quot; x 100&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28107972</id>
+    <published>2015-01-21T18:37:00-06:00</published>
+    <updated>2015-01-21T18:37:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/faux-bois-primavera"/>
+    <title>Faux Bois - Plank Primavera Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/primavera_1.jpg?v=1539964959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            5.00 - 80.00
+            <a href="https://www.oilclothbytheyard.com/products/faux-bois-primavera">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>This incredible wood print is perfect for all of your needs!</span></div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00</span></div>
+<div><span></span></div>
+<div>By The Roll - 12 yards - $80.00 ($6.66 per yard)</div>
+<div></div>
+<div>By The Piece</div>
+<div>47 x 11"</div>
+<div></div>
+<div>
+<div></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Faux Bois Plank</s:tag>
+    <s:tag>wood</s:tag>
+    <s:tag>wood grain</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28107972</id>
+      <title>By The Piece 47&quot; x 11&quot;</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28107972</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28107972</id>
+      <title>By The 12 Yard Roll</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>By The Roll</s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28108002</id>
+    <published>2014-09-04T20:12:00-05:00</published>
+    <updated>2014-09-04T20:12:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/faux-bois-teak"/>
+    <title>Faux Bois Teak Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Faux_Bois_Teak.jpg?v=1539965154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            6.00 - 80.00
+            <a href="https://www.oilclothbytheyard.com/products/faux-bois-teak">(18 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>This is a very realistic wood print!</div>
+<div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span></span></div>
+<div><span>We have lots of By the Piece!</span></div>
+<div><span>Please see the pull down menu for great deals and sizes available!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00 (1 one yard cut)<br> </span></div>
+<div><span><br> </span></div>
+<div><span><span><span><span><span><span><span>By The Roll - 47" wide - $80.00 ($6.66 per yard)</span></span></span></span></span></span></span></div>
+<div>12 Yards per Roll) </div>
+<div></div>
+<div>By The Piece:</div>
+<div>47 x 21.5"</div>
+<div>47 x 23.5"</div>
+<div>47 x 18" (half yard)</div>
+<div>29" x 83.5"</div>
+<div>12.5 x 66" </div>
+<div>39 x 53.5"</div>
+<div>28 x 51.5"</div>
+<div></div>
+<div><span><span><span><span><span><span><span>38 x 53.5"</span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>26 x 99" ( 2 pieces available)</span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>32 x 84"<br>27 x 73"</span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>34 x 121"</span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>More sizes on the pull down menu!</span></span></span></span></span></span></span></div>
+<div></div>
+<div>
+<div></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Faux Bois</s:tag>
+    <s:tag>wood</s:tag>
+    <s:tag>wood grain</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28108002</id>
+      <title>By The Piece 29 x 83.5</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28108002</id>
+      <title>By The Half Yard</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28108002</id>
+      <title>By The Piece 39 x 53,5&quot;</title>
+      <s:price currency="USD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28108002</id>
+      <title>By The Piece 12.5&quot; x 66&quot;</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28108002</id>
+      <title>By The Piece 28 x 51.5&quot;</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28108002</id>
+      <title>By The Piece 38 x 53.5&quot;</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28108002</id>
+      <title>By The Piece 26 x 99&quot;</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28108002</id>
+      <title>By The Piece 47 x 21.5&quot;</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28108002</id>
+      <title>47 x 23.5</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28108002</id>
+      <title>By The Piece 32 x 84&quot;</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28108002</id>
+      <title>BY The Piece 27 x 73&quot;</title>
+      <s:price currency="USD">18.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28108002</id>
+      <title>By The Piece 34 x 121&quot;</title>
+      <s:price currency="USD">35.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28108002</id>
+      <title>By The Piece 23.5 x 37&quot;</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28108002</id>
+      <title>By The Piece 21 x 119.5&quot;</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28108002</id>
+      <title>By The Piece 23.5 x 36</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28108002</id>
+      <title>By The Piece 27.5 x 144</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1905</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28108002</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28108002</id>
+      <title>By The Roll - 47&quot; wide (12 Yards per Roll)</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>Roll</s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28763562</id>
+    <published>2010-12-23T13:27:00-06:00</published>
+    <updated>2010-12-23T13:27:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/faux-bois-walnut-1"/>
+    <title>Faux Bois Walnut Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Faux_Bois_Rosewood.jpg?v=1539965205"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 80.00
+            <a href="https://www.oilclothbytheyard.com/products/faux-bois-walnut-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Beautiful wood print!</div>
+<div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00<br> </span></div>
+<div><span><br> </span></div>
+<div><span><span><span><span><span><span><span>By The Roll - 47" wide - $80.00<br> </span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>12 Yards per Roll $6.66 per yard</span></span></span></span></span></span></span></div>
+<div></div>
+<div>
+<div></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Faux Bois</s:tag>
+    <s:tag>wood</s:tag>
+    <s:tag>wood grain</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28763562</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28763562</id>
+      <title>By The Roll - 47&quot; wide (12 Yards per Roll)</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>Roll</s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28108022</id>
+    <published>2010-12-09T18:32:00-06:00</published>
+    <updated>2010-12-09T18:32:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/faux-bois-walnut"/>
+    <title>Faux Bois - Plank Walnut Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/walnutplank.jpg?v=1539965008"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 80.00
+            <a href="https://www.oilclothbytheyard.com/products/faux-bois-walnut">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>This Walnut wood print is perfect for all of your needs!</span></div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00<br> </span></div>
+<div><span><br> </span></div>
+<div><span><span><span><span><span><span><span>By The Roll - 47" wide - 80.00<br> </span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>12 Yards per Roll $6.66 per yard</span></span></span></span></span></span></span></div>
+<div>
+<div></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Faux Bois Plank</s:tag>
+    <s:tag>wood</s:tag>
+    <s:tag>wood grain</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28108022</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28108022</id>
+      <title>By The Roll - 47&quot; wide (12 Yards per Roll)</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>Roll</s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28107942</id>
+    <published>2010-12-09T18:30:00-06:00</published>
+    <updated>2010-12-09T18:30:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/faux-bois-mahogany"/>
+    <title>Faux Bois - Plank Mahogany Oilcloth Fabric</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/mahoghany.jpg?v=1539964846"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            5.00 - 80.00
+            <a href="https://www.oilclothbytheyard.com/products/faux-bois-mahogany">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>This incredibly realistic wood print is perfect for all of your needs.</div>
+<div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00 (only one yard cut left!)<br> </span></div>
+<div><span><br> </span></div>
+<div><span><span><span><span><span><span><span>By The Roll - 47" wide - $80.00<br> </span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>(12 Yards per Roll, $6.66 per yard)</span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span></span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>By The Piece</span></span></span></span></span></span></span></div>
+<div>
+<span><span><span><span><span><span><span></span></span></span></span></span></span></span><span><span><span><span><span><span><span>47 x 53</span></span></span></span></span></span></span>
+</div>
+<div><span><span><span><span><span><span><span>47 x 62.5 </span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>47 x 17.5 (just about a half yard)</span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>47 x 11.5 </span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>24 x 49"</span></span></span></span></span></span></span></div>
+<div>
+<div></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Faux Bois Plank</s:tag>
+    <s:tag>wood</s:tag>
+    <s:tag>wood grain</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28107942</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28107942</id>
+      <title>By The Piece 47 x 53&quot;</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28107942</id>
+      <title>By The Piece 47&quot; x 62.5</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28107942</id>
+      <title>By The Piece 47 x 11.5&quot;</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28107942</id>
+      <title>By The Piece 47 x 17.5&quot;</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28107942</id>
+      <title>By The Piece 24&quot; x 49&quot;</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28107942</id>
+      <title>By The Roll - 47&quot; wide (12 Yards per Roll)</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>Roll</s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28107872</id>
+    <published>2010-12-09T18:28:00-06:00</published>
+    <updated>2010-12-09T18:28:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/faux-bois-elm"/>
+    <title>Faux Bois Elm Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Faux_Bois_Elm.jpg?v=1539965085"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 80.00
+            <a href="https://www.oilclothbytheyard.com/products/faux-bois-elm">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>This is the perfect wood print!</div>
+<div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00<br> </span></div>
+<div><span><br> </span></div>
+<div><span><span><span><span><span><span><span>By The Roll - 47" wide - $80.00<br> </span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>(12 Yards per Roll, $6.66 per yard)</span></span></span></span></span></span></span></div>
+<div></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Faux Bois</s:tag>
+    <s:tag>wood</s:tag>
+    <s:tag>wood grain</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28107872</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28107872</id>
+      <title>By The Roll - 47&quot; wide (12 Yards per Roll)</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>Roll</s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+</feed>

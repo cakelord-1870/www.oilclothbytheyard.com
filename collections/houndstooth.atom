@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.oilclothbytheyard.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.oilclothbytheyard.com/collections/houndstooth.atom"/>
+  <title>Oilcloth By The Yard</title>
+  <updated>2017-10-27T16:09:36-05:00</updated>
+  <author>
+    <name>Oilcloth By The Yard</name>
+  </author>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/271652356123</id>
+    <published>2017-10-27T16:09:36-05:00</published>
+    <updated>2017-10-27T16:09:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/houndstooth-orange-oilcloth"/>
+    <title>Houndstooth Orange Oilcloth</title>
+    <s:type>fabric</s:type>
+    <s:vendor>Oilcloth By The Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/houndstooth_orange_1_f3717eee-12f3-49fe-b811-07544422ca9e.png?v=1540390575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth By The Yard<br>
+        <strong>Type: </strong>fabric<br>
+        <strong>Price: </strong>
+            12.95 - 85.00
+            <a href="https://www.oilclothbytheyard.com/products/houndstooth-orange-oilcloth">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>Each houndstooth measures 1" on this print!</span></div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $12.95<br></span></div>
+<div><span> </span></div>
+<div><span>By The Roll - 47" wide - $85.00<br></span></div>
+<div><span>(12 Yards per Roll - $7.08 per Yard!)</span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/271652356123</id>
+      <title>By The Yard</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/271652356123</id>
+      <title>By The Roll</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/271636037659</id>
+    <published>2017-10-27T16:05:06-05:00</published>
+    <updated>2017-10-27T16:05:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/houndstooth-gold-oilcloth"/>
+    <title>Houndstooth Gold Oilcloth</title>
+    <s:type>fabric</s:type>
+    <s:vendor>Oilcloth By The Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/houndstooth_gold_2_7b18951d-0625-4144-988b-24d17c5aded2.png?v=1540332187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth By The Yard<br>
+        <strong>Type: </strong>fabric<br>
+        <strong>Price: </strong>
+            12.95 - 85.00
+            <a href="https://www.oilclothbytheyard.com/products/houndstooth-gold-oilcloth">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>Each houndstooth measures 1" on this print!</span></div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00<br></span></div>
+<div><span> </span></div>
+<div><span>By The Roll - 47" wide - $85.00<br></span></div>
+<div><span>(12 Yards per Roll - $7.08 per Yard!)</span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/271636037659</id>
+      <title>By The Yard</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/271636037659</id>
+      <title>By The Roll</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/271621390363</id>
+    <published>2017-10-27T16:02:27-05:00</published>
+    <updated>2017-10-27T16:02:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/houndstooth-navy-oilcloth"/>
+    <title>Houndstooth Navy Oilcloth</title>
+    <s:type>fabric</s:type>
+    <s:vendor>Oilcloth By The Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/houndstooth_navy_1_copy.png?v=1540332440"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth By The Yard<br>
+        <strong>Type: </strong>fabric<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>Each houndstooth measures 1" on this print!</span></div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $14.95<br></span></div>
+<div><span> </span></div>
+<div><br></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/271621390363</id>
+      <title>By The Yard</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/271610347547</id>
+    <published>2017-10-27T15:59:43-05:00</published>
+    <updated>2017-10-27T15:59:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/houndstooth-lime-oilcloth"/>
+    <title>Houndstooth Lime Oilcloth</title>
+    <s:type>fabric</s:type>
+    <s:vendor>Oilcloth By The Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/houndstooth_lime_1_copy.png?v=1540332396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth By The Yard<br>
+        <strong>Type: </strong>fabric<br>
+        <strong>Price: </strong>
+            12.95 - 85.00
+            <a href="https://www.oilclothbytheyard.com/products/houndstooth-lime-oilcloth">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>Each houndstooth measures 1" on this print!</span></div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $12.95<br></span></div>
+<div><span> </span></div>
+<div><span>By The Roll - 47" wide - $85.00<br></span></div>
+<div><span>(12 Yards per Roll - $7.08 per Yard!)</span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/271610347547</id>
+      <title>By The Yard</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/271610347547</id>
+      <title>By The Roll</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/271576268827</id>
+    <published>2017-10-27T15:52:45-05:00</published>
+    <updated>2017-10-27T15:52:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/houndstooth-pink-oilcloth"/>
+    <title>Houndstooth Pink Oilcloth</title>
+    <s:type>fabric</s:type>
+    <s:vendor>Oilcloth By The Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/houndstooth_pink_1_copy.png?v=1540390615"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth By The Yard<br>
+        <strong>Type: </strong>fabric<br>
+        <strong>Price: </strong>
+            12.95 - 85.00
+            <a href="https://www.oilclothbytheyard.com/products/houndstooth-pink-oilcloth">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>Each houndstooth measures 1" on this print</span></div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $12.95<br></span></div>
+<div><span> </span></div>
+<div><span>By The Roll - 47" wide - $85.00<br></span></div>
+<div><span>(12 Yards per Roll - $7.08 per Yard!)</span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/271576268827</id>
+      <title>By The Yard</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/271576268827</id>
+      <title>By The Roll</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/271556149275</id>
+    <published>2017-10-27T15:49:00-05:00</published>
+    <updated>2017-10-27T15:49:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/houndstooth-blue-oilcloth"/>
+    <title>Houndstooth Blue Oilcloth</title>
+    <s:type>fabric</s:type>
+    <s:vendor>Oilcloth By The Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/houndstooth_blue_1_9d2fa9f3-2f78-4302-a307-96cbe9b93faf.png?v=1540332154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth By The Yard<br>
+        <strong>Type: </strong>fabric<br>
+        <strong>Price: </strong>
+            12.95 - 85.00
+            <a href="https://www.oilclothbytheyard.com/products/houndstooth-blue-oilcloth">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>Each houndstooth measures 1" on this print!</span></div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $12.95<br></span></div>
+<div><span> </span></div>
+<div><span>By The Roll - 47" wide - $85.00<br></span></div>
+<div><span>(12 Yards per Roll - $7.08 per Yard!)</span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/271556149275</id>
+      <title>By The Yard</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/271556149275</id>
+      <title>By The Roll</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/271505817627</id>
+    <published>2017-10-27T15:38:08-05:00</published>
+    <updated>2017-10-27T15:38:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/houndstooth"/>
+    <title>Houndstooth Black Oilcloth</title>
+    <s:type>fabric</s:type>
+    <s:vendor>Oilcloth By The Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/houndstooth_black_1_copy.png?v=1540331964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth By The Yard<br>
+        <strong>Type: </strong>fabric<br>
+        <strong>Price: </strong>
+            12.95 - 85.00
+            <a href="https://www.oilclothbytheyard.com/products/houndstooth">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>Each houndstooth measures 1" on this print!</span></div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $12,95<br></span></div>
+<div><span> </span></div>
+<div><span>By The Roll - 47" wide - $85.00<br></span></div>
+<div><span>(12 Yards per Roll - $7.08 per Yard!)</span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black and white</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/271505817627</id>
+      <title>By The Yard</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/271505817627</id>
+      <title>By The Roll</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.oilclothbytheyard.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.oilclothbytheyard.com/collections/nautical.atom"/>
+  <title>Oilcloth By The Yard</title>
+  <updated>2019-10-12T23:27:17-05:00</updated>
+  <author>
+    <name>Oilcloth By The Yard</name>
+  </author>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/4249902448737</id>
+    <published>2019-10-12T23:27:17-05:00</published>
+    <updated>2019-10-12T23:27:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/cabana-stripe-yellow-oilcloth"/>
+    <title>Cabana Stripe Yellow Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Stripes_Yellow_7cf27c8d-e3a4-43e8-ad24-0f86a9fba787.jpg?v=1570940838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 80.00
+            <a href="https://www.oilclothbytheyard.com/products/cabana-stripe-yellow-oilcloth">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>These beautiful cabana stripes will liven up any party or event!</span></div>
+<div><span>Perfect for boat cushions too!</span></div>
+<div><span>Stripes measure 7/8"</span></div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00<br> </span></div>
+<div><span><br> </span></div>
+<div><span><span><span><span><span><span><span>By The Roll - 47" wide - $8.00<br> </span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>(12 Yards per Roll - $7.08 per Yard!)</span></span></span></span></span></span></span></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>basic</s:tag>
+    <s:tag>Stripe</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/4249902448737</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/4249902448737</id>
+      <title>By The Roll - 47&quot; wide (12 Yards per Roll)</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>Roll</s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/4249900744801</id>
+    <published>2019-10-12T23:24:07-05:00</published>
+    <updated>2019-10-12T23:24:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/cabana-stripe-blue-oilcloth"/>
+    <title>Cabana Stripe Blue Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Stripes_Blue_940a2c0d-477b-4573-9955-7cf4b2044da0.jpg?v=1570940648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 80.00
+            <a href="https://www.oilclothbytheyard.com/products/cabana-stripe-blue-oilcloth">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Blue and white stripes, a classic print.</div>
+<div>Cabana Stripes measure 7/8"</div>
+<div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00<br> </span></div>
+<div><span><br> </span></div>
+<div><span><span><span><span><span><span><span>By The Roll - 47" wide - $80.00<br> </span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>(12 Yards per Roll - $6.66 per Yard!)</span></span></span></span></span></span></span></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>basic</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>Stripe</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/4249900744801</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/4249900744801</id>
+      <title>By The Roll - 47&quot; wide (12 Yards per Roll)</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>Roll</s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/271721070619</id>
+    <published>2017-10-27T16:30:52-05:00</published>
+    <updated>2017-10-27T16:30:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/nautical-black-and-red-oilcloth"/>
+    <title>Nautical Black and Red Oilcloth</title>
+    <s:type>fabric</s:type>
+    <s:vendor>Oilcloth By The Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/nautical_black_red_6a51fb4d-83c7-4e72-b297-7425223670f3.png?v=1540394175"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth By The Yard<br>
+        <strong>Type: </strong>fabric<br>
+        <strong>Price: </strong>
+            6.00 - 72.00
+            <a href="https://www.oilclothbytheyard.com/products/nautical-black-and-red-oilcloth">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><br></div>
+<div>100% Genuine Oilcloth Durable, Weatherproof, Washable.</div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $6.00<br></span></div>
+<div><span> </span></div>
+<div><span>By The Roll - 47" wide - $72.00<br></span></div>
+<div><span>(12 Yards per Roll - $6.00 per Yard!)</span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boats</s:tag>
+    <s:tag>coastal</s:tag>
+    <s:tag>nautical</s:tag>
+    <s:tag>sailboat</s:tag>
+    <s:tag>SALE</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/271721070619</id>
+      <title>By The Yard</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>331</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/271721070619</id>
+      <title>By The Roll</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/271659171867</id>
+    <published>2017-10-27T16:12:25-05:00</published>
+    <updated>2017-10-27T16:12:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/nautical-navy-and-red-oilcloth"/>
+    <title>Nautical Navy and Red Oilcloth</title>
+    <s:type>fabric</s:type>
+    <s:vendor>Oilcloth By The Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/nautical_red_navy.png?v=1540394240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth By The Yard<br>
+        <strong>Type: </strong>fabric<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span> Only one piece left!</span></div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00<br></span></div>
+<div>
+<span></span> <span></span><span> </span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boats</s:tag>
+    <s:tag>coastal</s:tag>
+    <s:tag>sailboat</s:tag>
+    <s:tag>SALE</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/271659171867</id>
+      <title>By The Yard</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+</feed>

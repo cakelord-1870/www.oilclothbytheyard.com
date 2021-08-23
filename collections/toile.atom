@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.oilclothbytheyard.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.oilclothbytheyard.com/collections/toile.atom"/>
+  <title>Oilcloth By The Yard</title>
+  <updated>2017-08-21T15:37:00-05:00</updated>
+  <author>
+    <name>Oilcloth By The Yard</name>
+  </author>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28107302</id>
+    <published>2017-08-21T15:37:00-05:00</published>
+    <updated>2017-08-21T15:37:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/toile-gold-on-black"/>
+    <title>Toile Gold on Black Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/toile_gold_on_black.png?v=1540484077"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            13.95 - 95.00
+            <a href="https://www.oilclothbytheyard.com/products/toile-gold-on-black">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div>
+<span></span><span>By The Yard 47" Wide $13.95 per yard </span>
+</div>
+<div><span></span></div>
+<div><span>By The 12 Yard Roll $95.00 per roll</span></div>
+<div><span></span></div>
+</div>
+<div></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Toile</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28107302</id>
+      <title>By The Yard</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28107302</id>
+      <title>By The 12 Yard Roll</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4037</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28107422</id>
+    <published>2015-12-02T22:55:00-06:00</published>
+    <updated>2015-12-02T22:55:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/toile-pink"/>
+    <title>Toile Pink Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Toile_Pink.jpg?v=1540486999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 85.00
+            <a href="https://www.oilclothbytheyard.com/products/toile-pink">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00<br> </span></div>
+<div><span><br> </span></div>
+<div><span><span><span><span><span><span><span>By The Roll - 47" wide - $85.00<br> </span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>(12 Yards per Roll - $7.08 per Yard!)</span></span></span></span></span></span></span></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Toile</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28107422</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28107422</id>
+      <title>By The Roll - 47&quot; wide (12 Yards per Roll)</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>Roll</s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28107532</id>
+    <published>2010-12-09T18:16:00-06:00</published>
+    <updated>2010-12-09T18:16:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/toile-white-on-black"/>
+    <title>Toile White on Black Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Toile_WhiteOnBlack.jpg?v=1540487145"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            12.95 - 90.00
+            <a href="https://www.oilclothbytheyard.com/products/toile-white-on-black">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $12.95<br> </span></div>
+<div><span><br> </span></div>
+<div><span><span><span><span><span><span><span>By The Roll - 47" wide - $90.00<br> </span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>(12 Yards per Roll - $7.50 per Yard!)</span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>Limited edition!</span></span></span></span></span></span></span></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Toile</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28107532</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28107532</id>
+      <title>By The Roll - 47&quot; wide (12 Yards per Roll)</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>Roll</s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28107522</id>
+    <published>2010-12-09T18:16:00-06:00</published>
+    <updated>2010-12-09T18:16:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/toile-silver"/>
+    <title>Toile Silver Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Toile_Silver.jpg?v=1540487091"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 90.00
+            <a href="https://www.oilclothbytheyard.com/products/toile-silver">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00<br> </span></div>
+<div><span><br> </span></div>
+<div><span><span><span><span><span><span><span>By The Roll - 47" wide - $90.00<br> </span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>(12 Yards per Roll - $7.50 per Yard!)</span></span></span></span></span></span></span></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Toile</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28107522</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28107522</id>
+      <title>By The Roll- 47&quot; Wide (12 Yards per Roll)</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>Roll</s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28107472</id>
+    <published>2010-12-09T18:15:00-06:00</published>
+    <updated>2010-12-09T18:15:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/toile-red"/>
+    <title>Toile Red Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Toile_Red.jpg?v=1540487055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 85.00
+            <a href="https://www.oilclothbytheyard.com/products/toile-red">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00<br> </span></div>
+<div><span><br> </span></div>
+<div><span><span><span><span><span><span><span>By The Roll - 47" wide - $85.00<br> </span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>(12 Yards per Roll - $7.08 per Yard!)</span></span></span></span></span></span></span></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Toile</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28107472</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28107472</id>
+      <title>By The Roll - 47&quot; wide (12 Yards per Roll)</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>Roll</s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28107272</id>
+    <published>2010-12-09T18:11:00-06:00</published>
+    <updated>2010-12-09T18:11:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/toile-gold"/>
+    <title>Toile Gold Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Toile_Gold.jpg?v=1540483282"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 85.00
+            <a href="https://www.oilclothbytheyard.com/products/toile-gold">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00<br> </span></div>
+<div><span><br> </span></div>
+<div><span><span><span><span><span><span><span>By The Roll - 47" wide - $85.00<br> </span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>(12 Yards per Roll - $7.08 per Yard!)</span></span></span></span></span></span></span></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Toile</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28107272</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28107272</id>
+      <title>By The Roll - 47&quot; wide (12 Yards per Roll)</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>Roll</s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28107252</id>
+    <published>2010-12-09T18:10:00-06:00</published>
+    <updated>2010-12-09T18:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/toile-cafe"/>
+    <title>Toile Cafe Oilcloth Fabric</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Toile_Cafe.jpg?v=1540483243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 85.00
+            <a href="https://www.oilclothbytheyard.com/products/toile-cafe">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00<br> </span></div>
+<div>By The Roll - 47" Wide (12 yards) $85.00</div>
+<div></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coffee</s:tag>
+    <s:tag>Toile</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28107252</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28107252</id>
+      <title>By The Roll 47&quot; wide (12 yards)</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28107242</id>
+    <published>2010-12-09T18:10:00-06:00</published>
+    <updated>2010-12-09T18:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/toile-blue"/>
+    <title>Toile Blue Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Toile_Blue.jpg?v=1540483207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 85.00
+            <a href="https://www.oilclothbytheyard.com/products/toile-blue">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00<br> </span></div>
+<div><span><br> </span></div>
+<div>
+<span></span><span><span><span><span><span><span><span>By The Roll - 47" wide - $85.00<br> </span></span></span></span></span></span></span>
+</div>
+<div><span><span><span><span><span><span><span>(12 Yards per Roll - $7.08 per Yard!)</span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span></span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span></span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>This product is also available in 55" wide!</span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>By The 55" wide Yard $19.99</span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span></span></span></span></span></span></span></span></div>
+<div><br></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Toile</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28107242</id>
+      <title>By The 55&quot; Wide Yard</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28107242</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28107242</id>
+      <title>By The Roll - 47&quot; wide (12 Yards per Roll)</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>Roll</s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28106952</id>
+    <published>2010-12-09T17:59:00-06:00</published>
+    <updated>2010-12-09T17:59:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/toile-black"/>
+    <title>Toile Black Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Toile_Black.jpg?v=1540479546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 85.00
+            <a href="https://www.oilclothbytheyard.com/products/toile-black">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00<br> </span></div>
+<div><span>By The Yard - 55" wide - $19.99</span></div>
+<div><span><br> </span></div>
+<div><span><span><span><span><span><span><span>By The Roll - 47" wide - $85.00<br> </span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>(12 Yards per Roll - $7.08 per Yard!)</span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span></span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>By The Roll - 55" wide - $150.00</span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>(12 Yards per roll - $12.50 per yard)</span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span></span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span><br></span></span></span></span></span></span></span></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black and white</s:tag>
+    <s:tag>lace</s:tag>
+    <s:tag>Toile</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28106952</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28106952</id>
+      <title>By The Roll - 47&quot; wide (12 Yards per Roll)</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>Roll</s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28106952</id>
+      <title>55&quot; Wide By The Yard</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28106952</id>
+      <title>55&quot; Wide - By The Roll</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>4840</s:grams>
+    </s:variant>
+  </entry>
+</feed>

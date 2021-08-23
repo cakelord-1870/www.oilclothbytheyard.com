@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.oilclothbytheyard.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.oilclothbytheyard.com/collections/dot.atom"/>
+  <title>Oilcloth By The Yard</title>
+  <updated>2020-08-02T00:50:22-05:00</updated>
+  <author>
+    <name>Oilcloth By The Yard</name>
+  </author>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/1466025604</id>
+    <published>2020-08-02T00:50:22-05:00</published>
+    <updated>2020-08-02T00:50:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/apples-and-dots-oilcloth-fabric-in-green"/>
+    <title>Apples and Dots Oilcloth Fabric in Green</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/Apples_and_Dots_Green_copy.png?v=1539901247"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 80.00
+            <a href="https://www.oilclothbytheyard.com/products/apples-and-dots-oilcloth-fabric-in-green">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Green apples, some with polka dots! This print is so much fun! Check out our blog for fun, easy oilcloth projects, at OilclothByTheYard.com</p>
+<p>100% Genuine Oilcloth Durable, Weatherproof, Washable.<br>Simply Wipe Clean With Soapy Sponge!<br><br>By The Yard - 47" wide - $10.00<br><br>By The Roll - 47" wide - $80.00<br>(12 Yards per Roll, $6.66 per yard Get 4 yards free when you buy by the roll!)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apples and Dots</s:tag>
+    <s:tag>dot</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>green</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/1466025604</id>
+      <title>By The Yard</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/1466025604</id>
+      <title>By The 12 Yard Roll</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/1466049156</id>
+    <published>2018-01-04T19:56:31-06:00</published>
+    <updated>2018-01-04T19:56:31-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/apples-and-dots-oilcloth-fabric-in-red"/>
+    <title>Apples and Dots Oilcloth Fabric Red</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/Apples_and_Dots_Red.png?v=1539901278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 80.00
+            <a href="https://www.oilclothbytheyard.com/products/apples-and-dots-oilcloth-fabric-in-red">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These apples and dots will bring a smile to your face! Red Apples, white dots.</p>
+<p>100% Genuine Oilcloth Durable, Weatherproof, Washable.<br>Simply Wipe Clean With Soapy Sponge!<br><br>By The Yard - 47" wide - $10.00<br><br>By The Roll - 47" wide - $80.00<br>(12 Yards per Roll - $6.66 per Yard!)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apples and Dots</s:tag>
+    <s:tag>dot</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>red</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/1466049156</id>
+      <title>By The Yard</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/1466049156</id>
+      <title>By The 12 Yard Roll</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/299603918875</id>
+    <published>2017-11-07T13:26:09-06:00</published>
+    <updated>2017-11-07T13:26:09-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/tan-dot-on-red"/>
+    <title>Tan Dot on Red Oilcloth Fabric</title>
+    <s:type>fabric</s:type>
+    <s:vendor>Oilcloth By The Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/tan_dot_on_red_1.png?v=1540478822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth By The Yard<br>
+        <strong>Type: </strong>fabric<br>
+        <strong>Price: </strong>
+            10.00 - 85.00
+            <a href="https://www.oilclothbytheyard.com/products/tan-dot-on-red">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White Dot on Tan Oilcloth Fabric</p>
+<p>47" Wide</p>
+<p>Simply wipe Clean</p>
+<p>By The Yard - 47" Wide $10.00</p>
+<p>By The Roll (12 yards) $85.00</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beige</s:tag>
+    <s:tag>khaki</s:tag>
+    <s:tag>tan</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/299603918875</id>
+      <title>By the Yard</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/299603918875</id>
+      <title>By The Roll</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28108722</id>
+    <published>2017-04-08T00:06:00-05:00</published>
+    <updated>2017-04-08T00:06:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/dot-white-on-tan"/>
+    <title>Solid Tan with White Dot Oilcloth Fabric</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Dot_WhiteOnTan.jpg?v=1540417533"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Get this while you still can!</div>
+<div>White dots on a tan or beige background</div>
+<div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $15.95<br> </span></div>
+<div><br></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beige</s:tag>
+    <s:tag>dot</s:tag>
+    <s:tag>khaki</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28108722</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">15.95</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28108392</id>
+    <published>2017-03-07T11:35:00-06:00</published>
+    <updated>2017-03-07T11:35:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/dot-lime"/>
+    <title>Dot Lime Oilcloth fabric</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Dot_Lime.jpg?v=1539963717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 80.00
+            <a href="https://www.oilclothbytheyard.com/products/dot-lime">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00<br> </span></div>
+<div><span><br> </span></div>
+<div><span><span><span><span><span><span><span>By The Roll - 47" wide - $80.00<br> </span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>12 Yards per Roll, $6.66 per yard!</span></span></span></span></span></span></span></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>basic</s:tag>
+    <s:tag>dot</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>lime</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28108392</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28108392</id>
+      <title>By The Roll - 47&quot; wide (12 Yards per Roll)</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>Roll</s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/1438082138209</id>
+    <published>2015-09-14T18:22:00-05:00</published>
+    <updated>2015-09-14T18:22:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/apples-and-dots-oilcloth-fabric-in-yellow"/>
+    <title>Apples and Dots Oilcloth Fabric in Yellow</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/IMG_6825_Facetune_04-10-2018-17-32-24.jpg?v=1539901322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Yellow Apples and polka dots! This print is so much fun! Check out our blog for fun, easy oilcloth projects, at OilclothByTheYard.com</p>
+<p>100% Genuine Oilcloth Durable, Weatherproof, Washable.<br>Simply Wipe Clean With Soapy Sponge!<br><br>By The Yard - 47" wide - $10.00<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apples and Dots</s:tag>
+    <s:tag>dot</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/1438082138209</id>
+      <title>By The Yard</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28108472</id>
+    <published>2015-08-03T19:13:00-05:00</published>
+    <updated>2015-08-03T19:13:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/dot-silver"/>
+    <title>Dot Silver Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Dot_Silver.jpg?v=1539964068"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            12.95 - 80.00
+            <a href="https://www.oilclothbytheyard.com/products/dot-silver">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $12.95<br> </span></div>
+<div><span><br> </span></div>
+<div><span><span><span><span><span><span><span>By The Roll - 47" wide - $85.00<br> </span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>(12 Yards per Roll, $7.08 per yard)</span></span></span></span></span></span></span></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>basic</s:tag>
+    <s:tag>dot</s:tag>
+    <s:tag>silver</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28108472</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28108472</id>
+      <title>By The Roll - 47&quot; wide (12 Yards per Roll)</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>Roll</s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28108332</id>
+    <published>2015-05-08T23:38:00-05:00</published>
+    <updated>2015-05-08T23:38:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/dot-light-blue"/>
+    <title>Dot Light Blue Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Dot_LightBlue.jpg?v=1539963677"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 80.00
+            <a href="https://www.oilclothbytheyard.com/products/dot-light-blue">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00<br> </span></div>
+<div><span><br> </span></div>
+<div><span><span><span><span><span><span><span>By The Roll - 47" wide - $80.00<br> </span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>12 Yards per Roll, $6.66 per yard</span></span></span></span></span></span></span></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>basic</s:tag>
+    <s:tag>dot</s:tag>
+    <s:tag>light blue</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28108332</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28108332</id>
+      <title>By The Roll - 47&quot; wide (12 Yards per Roll)</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>Roll</s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28108702</id>
+    <published>2014-09-04T20:21:00-05:00</published>
+    <updated>2014-09-04T20:21:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/dot-white-on-red"/>
+    <title>Solid Red with White Dot Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Dot_WhiteOnRed.jpg?v=1540417347"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 85.00
+            <a href="https://www.oilclothbytheyard.com/products/dot-white-on-red">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00</span></div>
+<div></div>
+<div>By The Roll - 12 Yards on a roll - $85.00</div>
+<div>($7.08 per yard when you buy by the roll!)</div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dot on Color</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28108702</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28108702</id>
+      <title>By The Roll -12 yards</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28108432</id>
+    <published>2010-12-09T18:45:00-06:00</published>
+    <updated>2010-12-09T18:45:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/dot-red"/>
+    <title>Dot Red Oilcloth Fabric</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Dot_Red.jpg?v=1539964031"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 80.00
+            <a href="https://www.oilclothbytheyard.com/products/dot-red">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00<br> </span></div>
+<div><span><br> </span></div>
+<div><span><span><span><span><span><span><span>By The Roll - 47" wide - $80.00<br> </span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>(12 Yards per Roll, $6.66 per yard!</span></span></span></span></span></span></span></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>basic</s:tag>
+    <s:tag>dot</s:tag>
+    <s:tag>red</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28108432</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28108432</id>
+      <title>By The Roll - 47&quot; wide (12 Yards per Roll)</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>Roll</s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28108402</id>
+    <published>2010-12-09T18:44:00-06:00</published>
+    <updated>2010-12-09T18:44:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/dot-pink"/>
+    <title>Dot Pink Oilcloth By The Yard</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Dot_Pink.jpg?v=1539963949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 80.00
+            <a href="https://www.oilclothbytheyard.com/products/dot-pink">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00<br> </span></div>
+<div><span><br> </span></div>
+<div><span><span><span><span><span><span><span>By The Roll - 47" wide - $80.00<br> </span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>(12 Yards per Roll, $6.66 per yard)</span></span></span></span></span></span></span></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>basic</s:tag>
+    <s:tag>dot</s:tag>
+    <s:tag>pink</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28108402</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28108402</id>
+      <title>By The Roll - 47&quot; wide (12 Yards per Roll)</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>Roll</s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28108192</id>
+    <published>2010-12-09T18:37:00-06:00</published>
+    <updated>2010-12-09T18:37:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/dot-blue"/>
+    <title>Dot Blue Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Dot_Blue.jpg?v=1539963322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 80.00
+            <a href="https://www.oilclothbytheyard.com/products/dot-blue">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00<br> </span></div>
+<div><span><br> </span></div>
+<div><span><span><span><span><span><span><span>By The Roll - 47" wide - $80.00<br> </span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>12 Yards per Roll, $6.66 per yard!</span></span></span></span></span></span></span></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>basic</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>dot</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28108192</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28108192</id>
+      <title>By The Roll - 47&quot; wide (12 Yards per Roll)</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>Roll</s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28108162</id>
+    <published>2010-12-09T18:36:00-06:00</published>
+    <updated>2010-12-09T18:36:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/dot-black"/>
+    <title>Dot Black Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Dot_Black.jpg?v=1539963258"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 80.00
+            <a href="https://www.oilclothbytheyard.com/products/dot-black">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00<br> </span></div>
+<div><span><br> </span></div>
+<div><span><span><span><span><span><span><span>By The Roll - 47" wide - $80.00<br> </span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>(12 Yards per Roll - $6.66 per Yard!)</span></span></span></span></span></span></span></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>basic</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>dot</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28108162</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28108162</id>
+      <title>By The Roll - 47&quot; wide (12 Yards per Roll)</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>Roll</s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+</feed>

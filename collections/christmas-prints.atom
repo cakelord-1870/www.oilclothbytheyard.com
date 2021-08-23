@@ -1,0 +1,1468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.oilclothbytheyard.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.oilclothbytheyard.com/collections/christmas-prints.atom"/>
+  <title>Oilcloth By The Yard</title>
+  <updated>2020-11-12T13:56:17-06:00</updated>
+  <author>
+    <name>Oilcloth By The Yard</name>
+  </author>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/113129606</id>
+    <published>2020-11-12T13:56:17-06:00</published>
+    <updated>2020-11-12T13:56:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/christmas-wreath-blue"/>
+    <title>Christmas Wreath Oilcloth Fabric</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/Christmas_Wreath_blue.jpg?v=1509038569"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Only one piece left!</div>
+<div>
+<div><span>This beautiful print will liven up any table!</span></div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Piece - 47" x 30" - $12.95</span></div>
+<div><span></span></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Christmas Wreath</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/113129606</id>
+      <title>By The Piece - 47&quot; x 30&quot;</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28139602</id>
+    <published>2019-11-19T19:34:53-06:00</published>
+    <updated>2019-11-19T19:34:53-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/christmas-stars-red"/>
+    <title>Christmas Stars on Red Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Christmas_Stars_Red.jpg?v=1509038867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            25.99 - 26.99
+            <a href="https://www.oilclothbytheyard.com/products/christmas-stars-red">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div></div>
+<div>
+<div>
+<meta charset="utf-8">
+<div><span>Easily bring the holiday spirit to your dining room or kitchen table with our Christmas Stars print. It has poinsettias, small gold stars and holiday greens. Then enjoy the additional free time you will have by not having to iron or launder after use!</span></div>
+</div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span> </span></div>
+</div>
+<div><span>By The Piece - 47" x 64 - $26.99</span></div>
+<div><span>By The Piece - 24.5" x 63" $25.99</span></div>
+<div><span> </span></div>
+<div><span></span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas</s:tag>
+    <s:tag>Christmas Stars</s:tag>
+    <s:tag>red</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28139602</id>
+      <title>47&quot; x 64&quot;</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>Yard</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28139602</id>
+      <title>24.5&quot; x 63&quot;</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/97569804</id>
+    <published>2019-11-01T16:25:46-05:00</published>
+    <updated>2019-11-01T16:25:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/christmas-ribbons-and-holly-gold"/>
+    <title>Christmas Ribbons and Holly Gold Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/Ribbons_Holly_Gold_large_fd0c3523-4e51-4f36-87f7-357acb9a2385.jpg?v=1539951046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            12.95 - 85.00
+            <a href="https://www.oilclothbytheyard.com/products/christmas-ribbons-and-holly-gold">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<meta charset="utf-8">
+<div><span>This oh so festive gold! What can we say, it's beautiful! Best part, it will make the holidays easier for you - so you can spend more time with your family! No laundering and no ironing, heavy duty too!</span></div>
+<div><span></span></div>
+</div>
+<div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $12.95</span></div>
+<div><span>By The 12 yard Roll - $85.00</span></div>
+<div><span></span></div>
+<div><span>Premade Tablecloths:</span></div>
+<div><span>70" Square  $85.00</span></div>
+<div><span><span><span><span><span><span><span> </span></span></span></span></span></span></span></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas</s:tag>
+    <s:tag>Christmas Ribbons and Holly</s:tag>
+    <s:tag>gold</s:tag>
+    <s:tag>tablecloth</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/97569804</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/97569804</id>
+      <title>By The Roll</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/97569804</id>
+      <title>70&quot; Square Tablecloth</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/112731678</id>
+    <published>2019-10-23T10:49:22-05:00</published>
+    <updated>2019-10-23T10:49:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/christmas-stars-white-oilcloth"/>
+    <title>Christmas Stars on White Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/xmasstarswhite.png?v=1509038664"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            12.95 - 95.00
+            <a href="https://www.oilclothbytheyard.com/products/christmas-stars-white-oilcloth">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>Easily bring the holiday spirit to your dining room or kitchen table with our Christmas Stars print. It has poinsettias, small gold stars and holiday greens. Then enjoy the additional free time you will have by not having to iron or launder after use!</span></div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+<div><span>By The Piece 47 x 23" $12.95</span></div>
+</div>
+<div><span>By The Yard 47" wide - $12.95</span></div>
+<div><span>By The Roll (12 yards on a roll) $95.00</span></div>
+<div><span><span><span><span><span><span><span></span></span></span></span></span></span></span></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas</s:tag>
+    <s:tag>Christmas Stars</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/112731678</id>
+      <title>By The Piece 47&quot; x 23&quot;</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/112731678</id>
+      <title>By The Yard 47&quot; wide</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/112731678</id>
+      <title>By The Roll</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28137572</id>
+    <published>2018-10-09T11:32:39-05:00</published>
+    <updated>2018-10-09T11:32:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/christmas-poinsettia-gold"/>
+    <title>Christmas Poinsettia Gold Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Christmas_Poinsettia_Gold.jpg?v=1539950642"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            14.95 - 96.00
+            <a href="https://www.oilclothbytheyard.com/products/christmas-poinsettia-gold">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<meta charset="utf-8">
+<div>Our poinsettia in gold is<span> so elegant!</span> These fabrics will make you life easier, our fabrics wipe right up, no laundering required. Relax and spend more time with your family around the holidays!</div>
+<div></div>
+</div>
+<div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $12.95<br> </span></div>
+<div><span><br> </span></div>
+<div><span><span><span><span><span><span><span>By The Roll - 47" wide - $96.00 Sold Out<br> </span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>(12 Yards per Roll - $6.66 per Yard!)</span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span></span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>47" Round Tablecloth $32.00</span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span> </span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>* We recommend shipping metallic fabric on a roll with UPS to prevent creases. <br> </span></span></span></span></span></span></span></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas</s:tag>
+    <s:tag>Christmas Poinsettia</s:tag>
+    <s:tag>gold</s:tag>
+    <s:tag>tablecloth</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28137572</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28137572</id>
+      <title>47&quot; Round tablecloth</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>32659</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28137572</id>
+      <title>By The Roll - 47&quot; wide</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28137462</id>
+    <published>2018-10-03T21:28:48-05:00</published>
+    <updated>2018-10-03T21:28:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/christmas-bells-and-bows-red"/>
+    <title>Christmas Bells and Bows Red Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/IMG_2782.jpg?v=1509039980"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            14.99 - 85.00
+            <a href="https://www.oilclothbytheyard.com/products/christmas-bells-and-bows-red">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div>
+<meta charset="utf-8">
+<div>Make the holidays easier by using our beautiful Christmas prints. Our fabrics wipe right up. No need to launder. It's also a very easy way to make a room feel festive without much effort! This gorgeous red print has beautiful hints of gold, red ribbons, poinsettias and holiday greens.</div>
+<div>Narrower pieces are perfect for table runners!</div>
+<div>While supplies last.</div>
+<div></div>
+</div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $14.99 (sold out)<br> </span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span><span><span><span><span><span><span>By The Roll - 47" wide - $85.00 (sold out)<br> </span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>(12 Yards per Roll - $7.08 per Yard!)</span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span></span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span></span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span></span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>By The Piece</span></span></span></span></span></span></span></div>
+<div>
+<span><span><span><span><span><span><span></span></span></span></span></span></span></span><span><span><span><span><span><span><span></span></span></span></span></span></span></span><span><span><span><span><span><span><span></span></span></span></span></span></span></span><span><span><span><span><span><span><span>35 x 47" $14.99 (one inch short of a yard)</span></span></span></span></span></span></span>
+</div>
+<div><br></div>
+<div><span><span><span><span><span><span><span></span></span></span></span></span></span></span></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas</s:tag>
+    <s:tag>Christmas Bells and Bows</s:tag>
+    <s:tag>red</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28137462</id>
+      <title>35 x 47&quot;</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28137462</id>
+      <title>17.5&quot; x 56&quot;</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28137462</id>
+      <title>12.5 &quot; x 93&quot;</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28137462</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28137462</id>
+      <title>By The 12 Yard Roll</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28137382</id>
+    <published>2018-10-03T21:26:02-05:00</published>
+    <updated>2018-10-03T21:26:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/christmas-bells-and-bows-green"/>
+    <title>Christmas Bells and Bows Green Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/IMG_2993.jpg?v=1539950462"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            14.95 - 96.00
+            <a href="https://www.oilclothbytheyard.com/products/christmas-bells-and-bows-green">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<meta charset="utf-8">
+<div>Make the holidays easier by using our beautiful Christmas prints. Our fabrics wipe right up. No need to launder. It's also a very easy way to make a room feel festive! This gorgeous green print has beautiful red ribbons, poinsettias and holiday greens.</div>
+<div></div>
+</div>
+<div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $14.95<br> </span></div>
+<div><span></span></div>
+<div>Premade 47" Round Tablecloth $32.00</div>
+<div></div>
+<div><span><br> </span></div>
+<div><span><span><span><span><span><span><span>By The Roll - 47" wide - $96.00<br> </span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>(12 Yards per Roll - $8.00 per Yard!)</span></span></span></span></span></span></span></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas</s:tag>
+    <s:tag>Christmas Bells and Bows</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>tablecloth</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28137382</id>
+      <title>47 x 45&quot;Tablecloth</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28137382</id>
+      <title>47&quot; ROUND TABLECLOTH</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>331</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28137382</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>331</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28137382</id>
+      <title>By The Roll - 47&quot; wide (12 Yards per Roll)</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku>Roll</s:sku>
+      <s:grams>3933</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28137432</id>
+    <published>2018-10-03T21:23:02-05:00</published>
+    <updated>2018-10-03T21:23:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/christmas-bells-and-bows-gold"/>
+    <title>Christmas Bells and Bows Gold Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/IMG_2748.jpg?v=1539950388"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div></div>
+<div>
+<meta charset="utf-8">
+<div>Make the holidays easier by using our beautiful Christmas prints. This gorgeous gold print has beautiful red ribbons, poinsettias, ornaments and holiday greens.</div>
+<div></div>
+<div></div>
+</div>
+<div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $14.95<br> </span></div>
+<div><span></span></div>
+<div><span><br> </span></div>
+<div><span><span><span><span><span><span><span>By The Roll - 47" wide - $96.00<br> </span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>12 Yards per Roll - $8.00 per Yard!</span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span> </span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>47" Round tablecloth $32.00</span></span></span></span></span></span></span></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Christmas Bells and Bows</s:tag>
+    <s:tag>gold</s:tag>
+    <s:tag>tablecloth</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28137432</id>
+      <title>47&quot; Round Tablecloth</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/97095532</id>
+    <published>2017-10-03T10:18:39-05:00</published>
+    <updated>2017-10-03T10:18:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/christmas-ribbons-and-holly-green"/>
+    <title>Christmas Ribbons and Holly Red Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/christmasred.jpg?v=1509039191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            12.95 - 85.00
+            <a href="https://www.oilclothbytheyard.com/products/christmas-ribbons-and-holly-green">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div>
+<span></span><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span>
+</div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div>
+<span></span><span>By The Yard - 47" wide - $12.95 - sold out</span>
+</div>
+</div>
+<div><span>By The Roll - 12 yards $85.00 - sold out</span></div>
+<div><br></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas</s:tag>
+    <s:tag>Christmas Ribbons and Holly</s:tag>
+    <s:tag>red</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/97095532</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/97095532</id>
+      <title>By The Roll</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/97569616</id>
+    <published>2017-10-03T10:17:33-05:00</published>
+    <updated>2017-10-03T10:17:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/christmas-ribbons-and-holly-green-1"/>
+    <title>Christmas Ribbons and Holly Green Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/Xmas_Ribbons_Poinsetta_Green.jpg?v=1509039319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 85.00
+            <a href="https://www.oilclothbytheyard.com/products/christmas-ribbons-and-holly-green-1">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>This oh so festive green and red with hints of gold! What can we say, it's beautiful! Best part, it will make the holidays easier for you - so you can spend more time with your family! No laundering and no ironing, heavy duty too!</span></div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+<div><span>By The Piece 47 x 25.5 $10.00</span></div>
+</div>
+<div>
+<span></span><span>BY The Piece 21 x 101 3/4" $25.00</span>
+</div>
+<div><span>By The 12 Yard Roll - $85.00</span></div>
+<div><span></span></div>
+<div>
+<span></span><span>68" Round Tablecloth  $65.00</span>
+</div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas</s:tag>
+    <s:tag>Christmas Ribbons and Holly</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>tablecloth</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/97569616</id>
+      <title>68&quot; Round Tablecloth</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>862</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/97569616</id>
+      <title>47 x 25&quot; Piece</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/97569616</id>
+      <title>21&quot;x 101.75&quot;</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>862</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/97569616</id>
+      <title>By The Roll</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/97569616</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/97569842</id>
+    <published>2017-10-03T10:15:40-05:00</published>
+    <updated>2017-10-03T10:15:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/christmas-ribbons-and-holly-silver"/>
+    <title>Christmas Ribbons and Holly Silver Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/Ribbons_Holly_Silver.jpg?v=1539951173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            6.00 - 26.99
+            <a href="https://www.oilclothbytheyard.com/products/christmas-ribbons-and-holly-silver">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>Simply put, oilcloth is the best during holidays. These gorgeous fabrics will easily make a room feel festive without much effort. Best part, it's wipe clean textile, which means no laundering or ironing for you!</span></div>
+<div><span></span></div>
+<div><span>Solid silver background beautiful red ribbons, poinsettias highlights of gold, with holiday greens.</span></div>
+<div><span></span></div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div>
+<span></span><span><span><span><span><span><span><span>By The Piece- 47" x 27.5"  - $12.99<br> </span></span></span></span></span></span></span>
+</div>
+<div>
+<span><span><span><span><span><span><span></span></span></span></span></span></span></span><span><span><span><span><span><span><span>By The Piece - 35 x 78" - $26.99 </span></span></span></span></span></span></span>
+</div>
+<div><span><span><span><span><span><span><span>By The Piece 47 x 11" -$6.00</span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>* We recommend shipping metallic fabric on a roll with UPS to prevent creases. <br> </span></span></span></span></span></span></span></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas</s:tag>
+    <s:tag>Christmas Ribbons and Holly</s:tag>
+    <s:tag>silver</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/97569842</id>
+      <title>By The Piece 47 x 11&quot;</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/97569842</id>
+      <title>By The Piece 35 x 78 1/4&quot;</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/97569842</id>
+      <title>By The Piece 47 x 27.5&quot;</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28137682</id>
+    <published>2017-10-03T10:10:59-05:00</published>
+    <updated>2017-10-03T10:10:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/christmas-poinsettia-red"/>
+    <title>Christmas Poinsettia Red Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Christmas_Poinsettia_Red.jpg?v=1539950819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            12.95 - 100.00
+            <a href="https://www.oilclothbytheyard.com/products/christmas-poinsettia-red">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<meta charset="utf-8">
+<div>These poinsettias on a solid red background pop along with pinecones and traditional holiday greens. Surely will make your busy life easier, our fabrics clean right up, no need to spend time laundering or ironing when you use our textiles!</div>
+<div></div>
+</div>
+<div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div>
+<span></span><span>90" Round tablecloth $100.00</span>
+</div>
+<div><span>By The Piece 33 x 102" $48.99</span></div>
+<div><span>By The Piece 47 x 43.75" $ 22.95</span></div>
+</div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas</s:tag>
+    <s:tag>Christmas Poinsettia</s:tag>
+    <s:tag>red</s:tag>
+    <s:tag>tablecloth</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28137682</id>
+      <title>47&quot; x 43.75&quot;</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28137682</id>
+      <title>By The Piece 33&quot; x 102&quot;</title>
+      <s:price currency="USD">48.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>1451</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28137682</id>
+      <title>90&quot; Round Tablecloth</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28105412</id>
+    <published>2016-11-16T15:32:00-06:00</published>
+    <updated>2016-11-16T15:32:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/solid-red"/>
+    <title>Solid Red Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Solids_Red.jpg?v=1540417290"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 85.00
+            <a href="https://www.oilclothbytheyard.com/products/solid-red">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Waterproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00<br> </span></div>
+<div><span><br> </span></div>
+<div><span><span><span><span><span><span><span>By The Roll - 47" wide - $85.00<br> </span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>(12 Yards per Roll - $7.08 per Yard!)</span></span></span></span></span></span></span></div>
+<div>
+<div></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28105412</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28105412</id>
+      <title>By the Roll</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>Roll</s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/3771548804</id>
+    <published>2015-11-24T17:47:00-06:00</published>
+    <updated>2015-11-24T17:47:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/diy-christmas-placemats"/>
+    <title>Freckled Sage DIY Christmas Placemats or Runner Kit</title>
+    <s:type>Kits</s:type>
+    <s:vendor>Oilcloth By The Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/f4f259ee-f349-4f5a-8d1d-ff572b477c54.jpg?v=1576548575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth By The Yard<br>
+        <strong>Type: </strong>Kits<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This kit designed by Freckled Sage,  provides enough fabric and instructions to make 2 finished double sided placemats or one double-sided runner!</p>
+<p>Perfect for hostess gift or your holiday table! Easy sewing instructions, perfect DIY kit for Teens!</p>
+<p>Requires minimal sewing skills!</p>
+<p>Choose from:</p>
+<p>Christmas Stars on Red with Dot Gold</p>
+<p>Christmas Stars on Green with Red Gingham</p>
+<p>Christmas Stars on Green with Red Dot</p>
+<p>Christmas Stars on Blue with Gold Gingham</p>
+<p>$12.00 per kit</p>
+<p>While Supplies Last</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/3771548804</id>
+      <title>Stars on Green/Red Gingham</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/3771548804</id>
+      <title>Stars on Red/Dot Gold</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/3771548804</id>
+      <title>Stars on Blue/Gold Gingham</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/3771548804</id>
+      <title>Stars on Green/Dot Red</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/97095768</id>
+    <published>2012-07-18T14:53:00-05:00</published>
+    <updated>2012-07-18T14:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/christmas-ribbons-and-holly-blue"/>
+    <title>Christmas Ribbons and Holly Blue Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/Christmasblue.jpg?v=1509038317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            12.95 - 80.00
+            <a href="https://www.oilclothbytheyard.com/products/christmas-ribbons-and-holly-blue">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>Elegant choice for a non traditional holiday look. This print has a deep blue background with gold and red ribbons, poinsettias and holiday greens. Make your life easy, use our textiles for a laundry free, no iron, easy to clean up fabrics.</span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $12.95<br> </span></div>
+<div><span><br> </span></div>
+<div><span><span><span><span><span><span><span>By The Roll - 47" wide - $80.00<br> </span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>(12 Yards per Roll - $6.66 per Yard!)</span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span></span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>47" Round Tablecloth $32.00</span></span></span></span></span></span></span></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Christmas Ribbons and Holly</s:tag>
+    <s:tag>tablecloth</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/97095768</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/97095768</id>
+      <title>By The Roll - 47&quot; wide (12 Yards per Roll)</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>Roll</s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/97095768</id>
+      <title>47&quot; Round Tablecloth</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28139572</id>
+    <published>2010-12-10T14:13:00-06:00</published>
+    <updated>2010-12-10T14:13:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/christmas-stars-green"/>
+    <title>Christmas Stars Green Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Christmas_Stars_Green.jpg?v=1509038940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 32.00
+            <a href="https://www.oilclothbytheyard.com/products/christmas-stars-green">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>Only  a few Pieces left, and a few tablecloths! Smaller pieces are perfect for table runners!</span></div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><br></div>
+<div>12" x 47" $10.00</div>
+<div></div>
+<div>47" Round Tablecloth $32.00</div>
+<div></div>
+</div>
+<div><span><br></span></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas</s:tag>
+    <s:tag>Christmas Stars</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>tablecloth</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28139572</id>
+      <title>12&quot; x 47&quot; Piece</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28139572</id>
+      <title>47&quot; Rounds</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28139002</id>
+    <published>2010-12-10T13:57:00-06:00</published>
+    <updated>2010-12-10T13:57:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/christmas-poinsettia-white"/>
+    <title>Christmas Poinsettia White Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/IMG_2778.jpg?v=1539950954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            6.95 - 48.95
+            <a href="https://www.oilclothbytheyard.com/products/christmas-poinsettia-white">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>Enjoy the holidays. Make life easy. Our textiles are wipe clean, which means no ironing or laundering! Beautiful poinsettias on a solid white background with traditional pine cones and holiday greens.</span></div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>47" wide By the Yard - $13.95 (only 1 left)</span></div>
+<div><span>47" x 2 yards (47 x 72) (only one left) $27.95</span></div>
+<div>
+<span></span><span>By The Piece</span>
+</div>
+<div><span>47 x 17.5"</span></div>
+<div><span>47 x 30"</span></div>
+<div>
+<span></span><span>33 1/4" x 120" (makes a perfect runner!, Great for a narrow table))</span>
+</div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas</s:tag>
+    <s:tag>Christmas Poinsettia</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28139002</id>
+      <title>By the yard</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28139002</id>
+      <title>47 x 72&quot; (2 yard piece)</title>
+      <s:price currency="USD">27.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28139002</id>
+      <title>By The Piece 33 1/4&quot; x 120&quot;</title>
+      <s:price currency="USD">48.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>1451</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28139002</id>
+      <title>By The Piece 47&quot; x 17.5&quot;</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28139002</id>
+      <title>By The Piece 47&quot; x 30&quot;</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28137622</id>
+    <published>2010-12-10T13:22:00-06:00</published>
+    <updated>2010-12-10T13:22:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/christmas-poinsettia-green"/>
+    <title>Christmas Poinsettia Green Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/xmaspoinsettiagreen.png?v=1539950727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            6.00 - 29.95
+            <a href="https://www.oilclothbytheyard.com/products/christmas-poinsettia-green">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>These poinsettias on a solid background pop along with pinecones and traditional holiday greens. Surely will make your busy life easier, our fabrics clean right up, no need to spend time laundering or ironing when you use our textiles!</div>
+<div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span></span></div>
+<div><span>These pieces are great to use for table runners, wrapping gifts or covering a small area in festiveness!</span></div>
+<div><span>Yardage</span></div>
+<div><span>One Yard - 47 x 36" (only one left!)</span></div>
+<div><span>2 Yards 47 x 72" (only one 2 yard piece left)</span></div>
+<div><span></span></div>
+<div><span>Available by the piece</span></div>
+</div>
+<div><span>By The Piece - 47" x 28" - $12.95</span></div>
+<div><span>By The Piece - 47" x 14" - $6.00</span></div>
+<div><span>By The Piece - 47" x 20" - $8.95</span></div>
+<div><span><span><span><span><span><span><span></span></span></span></span></span></span></span></div>
+<div></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas</s:tag>
+    <s:tag>Christmas Poinsettia</s:tag>
+    <s:tag>green</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28137622</id>
+      <title>By The Piece- 47&quot; x 14</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28137622</id>
+      <title>By The Piece - 47&quot; x 20&quot;</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>piece</s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28137622</id>
+      <title>By The Piece 47 x 28&quot;</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28137622</id>
+      <title>By The Yard 47&quot; Wide</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28137622</id>
+      <title>Two yard Piece (47&quot; x 72&quot; )</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28137542</id>
+    <published>2010-12-10T13:21:00-06:00</published>
+    <updated>2010-12-10T13:21:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/christmas-poinsettia-blue"/>
+    <title>Christmas Poinsettia Blue Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Christmas_Poinsettia_Blue.jpg?v=1539950572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            14.95 - 85.00
+            <a href="https://www.oilclothbytheyard.com/products/christmas-poinsettia-blue">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Our poinsettia in blue is perfect if you celebrate both Christmas and Hanukkah! Or if you are simply looking for non traditional green and red. These fabrics will make you life easier, these fabrics wipe clean. No laundering required. Relax and spend more time with your family!</div>
+<div></div>
+<div></div>
+<div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $12.95</span></div>
+<div><span></span></div>
+<div><span><span><span><span><span><span><span>By The Roll - 47" wide - $85.00<br> </span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>(12 Yards per Roll)</span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span></span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>47" Round Tablecloth $32.00</span></span></span></span></span></span></span></div>
+<div></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue</s:tag>
+    <s:tag>christmas</s:tag>
+    <s:tag>Christmas Poinsettia</s:tag>
+    <s:tag>tablecloth</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28137542</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28137542</id>
+      <title>47&quot; Round Tablecloth</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28137542</id>
+      <title>By The Roll - 47&quot; wide (12 Yards per Roll)</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>Roll</s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28105142</id>
+    <published>2010-12-09T17:26:00-06:00</published>
+    <updated>2010-12-09T17:26:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/solid-green"/>
+    <title>Solid Green Oilcloth Fabric</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Solids_Green.jpg?v=1540417141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            12.00 - 100.00
+            <a href="https://www.oilclothbytheyard.com/products/solid-green">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00<br> </span></div>
+<div><span><br> </span></div>
+<div><span><span><span><span><span><span><span>By The Roll - 47" wide - $85.00<br> </span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>(12 Yards per Roll - $7.08 per Yard!)</span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span></span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span></span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>90" ROUND TABLECLOTH $100.00</span></span></span></span></span></span></span></div>
+<div>
+<div></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28105142</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28105142</id>
+      <title>12 Yard Roll</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28105142</id>
+      <title>90&quot; ROUND TABLECLOTH</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+  </entry>
+</feed>

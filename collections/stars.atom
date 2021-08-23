@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.oilclothbytheyard.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.oilclothbytheyard.com/collections/stars.atom"/>
+  <title>Oilcloth By The Yard</title>
+  <updated>2020-08-21T18:23:45-05:00</updated>
+  <author>
+    <name>Oilcloth By The Yard</name>
+  </author>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/267611078683</id>
+    <published>2020-08-21T18:23:45-05:00</published>
+    <updated>2020-08-21T18:23:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/hearts-and-stars-red-and-pink-oilcloth-fabric"/>
+    <title>Hearts and Stars Red and Pink Oilcloth Fabric</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth By The Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/red_hearts_pink_stars.png?v=1540331882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth By The Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Only one piece left! Get it while you can!</p>
+<p>Sale on this super cute fabric has red hearts, pink, green, light blue, and yellow stars on a white background. Made of genuine oilcloth it is easy to sew and easy to maintain! </p>
+<div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span> </span></div>
+</div>
+<div><span>By The Yard - 47"  x 30"  - $6.00<br></span></div>
+<div><span> </span></div>
+<div><span> </span></div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/267611078683</id>
+      <title>By The Piece 47 x 30&quot;</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28139602</id>
+    <published>2019-11-19T19:34:53-06:00</published>
+    <updated>2019-11-19T19:34:53-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/christmas-stars-red"/>
+    <title>Christmas Stars on Red Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Christmas_Stars_Red.jpg?v=1509038867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            25.99 - 26.99
+            <a href="https://www.oilclothbytheyard.com/products/christmas-stars-red">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div></div>
+<div>
+<div>
+<meta charset="utf-8">
+<div><span>Easily bring the holiday spirit to your dining room or kitchen table with our Christmas Stars print. It has poinsettias, small gold stars and holiday greens. Then enjoy the additional free time you will have by not having to iron or launder after use!</span></div>
+</div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span> </span></div>
+</div>
+<div><span>By The Piece - 47" x 64 - $26.99</span></div>
+<div><span>By The Piece - 24.5" x 63" $25.99</span></div>
+<div><span> </span></div>
+<div><span></span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas</s:tag>
+    <s:tag>Christmas Stars</s:tag>
+    <s:tag>red</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28139602</id>
+      <title>47&quot; x 64&quot;</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>Yard</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28139602</id>
+      <title>24.5&quot; x 63&quot;</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/112731678</id>
+    <published>2019-10-23T10:49:22-05:00</published>
+    <updated>2019-10-23T10:49:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/christmas-stars-white-oilcloth"/>
+    <title>Christmas Stars on White Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/xmasstarswhite.png?v=1509038664"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            12.95 - 95.00
+            <a href="https://www.oilclothbytheyard.com/products/christmas-stars-white-oilcloth">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>Easily bring the holiday spirit to your dining room or kitchen table with our Christmas Stars print. It has poinsettias, small gold stars and holiday greens. Then enjoy the additional free time you will have by not having to iron or launder after use!</span></div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+<div><span>By The Piece 47 x 23" $12.95</span></div>
+</div>
+<div><span>By The Yard 47" wide - $12.95</span></div>
+<div><span>By The Roll (12 yards on a roll) $95.00</span></div>
+<div><span><span><span><span><span><span><span></span></span></span></span></span></span></span></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas</s:tag>
+    <s:tag>Christmas Stars</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/112731678</id>
+      <title>By The Piece 47&quot; x 23&quot;</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/112731678</id>
+      <title>By The Yard 47&quot; wide</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/112731678</id>
+      <title>By The Roll</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/189045281</id>
+    <published>2019-03-16T01:05:24-05:00</published>
+    <updated>2019-03-16T01:05:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/stars-red-and-blue-oilcloth-fabric"/>
+    <title>Red White and Blue Stars Oilcloth Fabric</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/Stars_red.blue.jpg?v=1433385735"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>Only one yard left!</span></div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+<div>
+<span></span><span></span><span>By The Yard - 47" Wide $12.95</span>
+</div>
+</div>
+<div><span> </span></div>
+<div><br></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>star</s:tag>
+    <s:tag>Stars</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/189045281</id>
+      <title>By The Yard</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/266598875163</id>
+    <published>2017-10-26T11:29:26-05:00</published>
+    <updated>2017-10-26T11:29:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/hearts-and-stars-red-and-silver-oilcloth-fabric"/>
+    <title>Hearts and Stars Red and Silver Oilcloth Fabric</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth By The Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/red_hearts_silver_stars.png?v=1540331911"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth By The Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sale on this super cute fabric has red hearts, silver, green, light blue, and yellow stars on a white background. Made of genuine oilcloth it is easy to sew and easy to maintain! </p>
+<div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span> </span></div>
+</div>
+<div><span>By The Piece 47" x 23"</span></div>
+<div>
+<span></span><span> </span>
+</div>
+<div><span></span></div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SALE</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/266598875163</id>
+      <title>By The Piece 47 x 23&quot;</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/266583801883</id>
+    <published>2017-10-26T11:24:42-05:00</published>
+    <updated>2017-10-26T11:24:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/hearts-and-stars-red-and-gold"/>
+    <title>Hearts and Stars Red and Gold Oilcloth Fabric</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth By The Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/red_hearts_gold_stars.png?v=1540331865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth By The Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            6.00 - 12.00
+            <a href="https://www.oilclothbytheyard.com/products/hearts-and-stars-red-and-gold">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sale on this super cute fabric has red hearts, green, light blue, and yellow stars on a white background. Made of genuine oilcloth it is easy to sew and easy to maintain! </p>
+<div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $12.00 (one 2 yard piece)<br></span></div>
+<div><span> </span></div>
+<div><span>By The Piece 47 x 24.5 -  $6.00</span></div>
+<div><span>By The Piece 47 x 27" $6.00</span></div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SALE</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/266583801883</id>
+      <title>By The 2 Yard Piece (47 x 72)</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>816</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/266583801883</id>
+      <title>By The Piece 47 x 24.5&quot;</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/266583801883</id>
+      <title>By The Piece 47 x 27&quot;</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28139572</id>
+    <published>2010-12-10T14:13:00-06:00</published>
+    <updated>2010-12-10T14:13:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/christmas-stars-green"/>
+    <title>Christmas Stars Green Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Christmas_Stars_Green.jpg?v=1509038940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 32.00
+            <a href="https://www.oilclothbytheyard.com/products/christmas-stars-green">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>Only  a few Pieces left, and a few tablecloths! Smaller pieces are perfect for table runners!</span></div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><br></div>
+<div>12" x 47" $10.00</div>
+<div></div>
+<div>47" Round Tablecloth $32.00</div>
+<div></div>
+</div>
+<div><span><br></span></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas</s:tag>
+    <s:tag>Christmas Stars</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>tablecloth</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28139572</id>
+      <title>12&quot; x 47&quot; Piece</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28139572</id>
+      <title>47&quot; Rounds</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

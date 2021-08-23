@@ -1,0 +1,1406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.oilclothbytheyard.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.oilclothbytheyard.com/collections/floral.atom"/>
+  <title>Oilcloth By The Yard</title>
+  <updated>2020-08-30T16:15:47-05:00</updated>
+  <author>
+    <name>Oilcloth By The Yard</name>
+  </author>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/289487321</id>
+    <published>2020-08-30T16:15:47-05:00</published>
+    <updated>2020-08-30T16:15:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/rose-vine-red-oilcloth-fabric"/>
+    <title>Rose Vine Red Oilcloth Fabric</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/rose_vine_red_cd8d3b5f-032c-4a40-a0e7-137d4f09d63d.png?v=1572639061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>Only One Yard left!</span></div>
+<div><span>This oilcloth is a border print. It is bordered on both the top and bottom, with the vines in the middle. Roses, vines and small hearts all so pretty to look at!</span></div>
+<div><span>It's perfect for tablecloths and bags too!</span></div>
+<div><span></span></div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $6.00<br> </span></div>
+<div></div>
+<div><span><span><span><span><span><span><span>Final sale, no refunds, returns or exchanges.</span></span></span></span></span></span></span></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rose Vine</s:tag>
+    <s:tag>SALE</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/289487321</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28386912</id>
+    <published>2020-08-21T17:55:15-05:00</published>
+    <updated>2020-08-21T17:55:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/fruit-and-daisy-purple"/>
+    <title>Fruit and Daisy Purple Oilcloth Fabric</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Floral_Fruit_Daisy_Purple.jpg?v=1540229650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>Only one yard left!</span></div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide x 39"  - $10.00</span></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>citrus</s:tag>
+    <s:tag>Fruit and Daisy</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28386912</id>
+      <title>By The Yard - 47&quot; wide x 39&quot;</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/336084241</id>
+    <published>2020-08-21T17:27:04-05:00</published>
+    <updated>2020-08-21T17:27:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/hydrangea-white"/>
+    <title>Hydrangea White</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/Hydrangea_WHITE.jpg?v=1403984731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Piece - 85" x 11" - $14.95<br> </span></div>
+<div><span><br> </span></div>
+<div><span><span><span><span><span><span><span></span></span></span></span></span></span></span></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hydrangea</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/336084241</id>
+      <title>By The Piece - 85&quot; x 11&quot;</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28379152</id>
+    <published>2020-08-04T21:14:09-05:00</published>
+    <updated>2020-08-04T21:14:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/bows-and-bouquet-yellow"/>
+    <title>Bows and Bouquet Yellow Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Floral_Bows_Bouquet_Yellow.jpg?v=1539911757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            12.00 - 80.00
+            <a href="https://www.oilclothbytheyard.com/products/bows-and-bouquet-yellow">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Red and Yellow diminutive flowers with green bows on a yellow background.</div>
+<div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00<br> </span></div>
+<div><span><br> </span></div>
+<div><span><span><span><span><span><span><span>By The Roll - 47" wide - $80.00<br> </span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>(12 Yards per Roll, $6.66 per yard)</span></span></span></span></span></span></span></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bows</s:tag>
+    <s:tag>Bows and Bouquet</s:tag>
+    <s:tag>floral</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28379152</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28379152</id>
+      <title>By The Roll - 47&quot; wide (12 Yards per Roll)</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>Roll</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/9878893777</id>
+    <published>2019-06-22T19:32:35-05:00</published>
+    <updated>2019-06-22T19:32:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/cherry-blossom-gold-oilcloth"/>
+    <title>Cherry Blossom Gold Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/cherry_blossom_green_3_e15fb896-402f-40ca-a054-c36e20040a6d.jpg?v=1515536038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 80.00
+            <a href="https://www.oilclothbytheyard.com/products/cherry-blossom-gold-oilcloth">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00<br> </span></div>
+<div><span><br> </span></div>
+<div><span><span><span><span><span><span><span>By The Roll - 47" wide - $80.00<br> </span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>(12 Yards per Roll - $6.66 per Yard!)</span></span></span></span></span></span></span></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cherry blossom</s:tag>
+    <s:tag>floral</s:tag>
+    <s:tag>gold</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/9878893777</id>
+      <title>By The Yard</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/9878893777</id>
+      <title>By The Roll - 47&quot; wide (12 Yards per Roll)</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>Roll</s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/336089845</id>
+    <published>2019-05-29T09:40:41-05:00</published>
+    <updated>2019-05-29T09:40:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/hydrangea-silver"/>
+    <title>Hydrangea Silver</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/Hydrangea_SILVER.jpg?v=1540390986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            8.00 - 10.00
+            <a href="https://www.oilclothbytheyard.com/products/hydrangea-silver">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div>Few Pieces Left!</div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div>
+<span></span><span></span><span></span><span> </span>
+</div>
+<div>By The Half Yard (47" x 18") $10.00</div>
+<div>By The Piece - 16" x 225" (6+ yards,  can cut by the Yard) $8.00 by the yard</div>
+<div></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hydrangea</s:tag>
+    <s:tag>SALE</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/336089845</id>
+      <title>By the Half Yard</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/336089845</id>
+      <title>By The Yard 16&quot; wide</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/2094136885345</id>
+    <published>2019-04-24T16:49:47-05:00</published>
+    <updated>2019-04-24T16:49:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/gardenia-on-light-blue-oilcloth-fabric"/>
+    <title>Gardenia on Light Blue Oilcloth Fabric</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>OilclothByTheYard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/new_floral_print_light_blue_1_0001.jpg?v=1556142693"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OilclothByTheYard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 80.00
+            <a href="https://www.oilclothbytheyard.com/products/gardenia-on-light-blue-oilcloth-fabric">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This big beautiful Gardenia flower measures 8" x 11" at it's widest points, while the sizes varies, that measurement is of the largest flower in the print.</p>
+<p>100% Genuine Oilcloth Durable, Waterproof, Washable.</p>
+<p>Simply Wipe Clean with soapy sponge!</p>
+<p>By The Yard - 47" Wide  - $10.00</p>
+<p>By The Roll - 47" Wide - $80.00</p>
+<p>(12 yards per Roll, $6.66 per yard)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gardenia</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/2094136885345</id>
+      <title>By The Yard</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/2094136885345</id>
+      <title>By The Roll</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/2094130266209</id>
+    <published>2019-04-24T16:46:34-05:00</published>
+    <updated>2019-04-24T16:46:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/gardenia-on-white-oilcloth-fabric"/>
+    <title>Gardenia on White Oilcloth Fabric</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>OilclothByTheYard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/new_floral_print_white_3_0001.jpg?v=1556142451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OilclothByTheYard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 85.00
+            <a href="https://www.oilclothbytheyard.com/products/gardenia-on-white-oilcloth-fabric">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>This big beautiful Gardenia flower measures 8" x 11" at it's widest points, while the sizes varies, that measurement is of the largest flower in the print.</p>
+<p>100% Genuine Oilcloth Durable, Waterproof, Washable.</p>
+<p>Simply Wipe Clean with soapy sponge!</p>
+<p>By The Yard - 47" Wide  - $10.00</p>
+<p>By The Roll - 47" Wide - $85.00</p>
+<p>(12 yards per Roll, $7.08 per yard)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gardenia</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/2094130266209</id>
+      <title>By The Yard</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/2094130266209</id>
+      <title>By The Roll</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/2094121255009</id>
+    <published>2019-04-24T16:42:17-05:00</published>
+    <updated>2019-04-24T16:42:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/gardenia-on-green-oilcloth-fabric-1"/>
+    <title>Gardenia on Green Oilcloth Fabric</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>OilclothByTheYard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/new_floral_print_green_2_0001.jpg?v=1556142337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OilclothByTheYard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 85.00
+            <a href="https://www.oilclothbytheyard.com/products/gardenia-on-green-oilcloth-fabric-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This big beautiful Gardenia flower measures 8" x 11" (largest flower) </p>
+<p>100% Genuine Oilcloth Durable, Waterproof, Washable.</p>
+<p>Simply Wipe Clean with soapy sponge!</p>
+<p>By The Yard - 47" Wide  - $10.00</p>
+<p>By The Roll - 47" Wide - $85.00</p>
+<p>(12 yards per Roll, $7.08 per yard)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gardenia</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/2094121255009</id>
+      <title>By The Yard</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/2094121255009</id>
+      <title>By The Roll</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/2094112604257</id>
+    <published>2019-04-24T16:38:39-05:00</published>
+    <updated>2019-04-24T16:38:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/gardenia-on-green-oilcloth-fabric"/>
+    <title>Gardenia on Lime Oilcloth Fabric</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>OilclothByTheYard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/new_floral_print_lime_4_0001.jpg?v=1556142010"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OilclothByTheYard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 85.00
+            <a href="https://www.oilclothbytheyard.com/products/gardenia-on-green-oilcloth-fabric">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>This big beautiful Gardenia flower measures 8" x 11" at it's widest points, while the sizes varies, that measurement is of the largest flower in the print.</p>
+<p>100% Genuine Oilcloth Durable, Waterproof, Washable.</p>
+<p>Simply Wipe Clean with soapy sponge!</p>
+<p>By The Yard - 47" Wide  - $10.00</p>
+<p>By The Roll - 47" Wide - $85.00</p>
+<p>(12 yards per Roll, $7.08 per yard)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gardenia</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/2094112604257</id>
+      <title>By The Yard</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/2094112604257</id>
+      <title>By The Roll</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/2094100381793</id>
+    <published>2019-04-24T16:28:25-05:00</published>
+    <updated>2019-04-24T16:28:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/gardenia-on-pink-oilcloth-fabric"/>
+    <title>Gardenia on Pink Oilcloth Fabric</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>OilclothByTheYard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/new_floral_print_pink_4_0001.jpg?v=1556141761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OilclothByTheYard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 85.00
+            <a href="https://www.oilclothbytheyard.com/products/gardenia-on-pink-oilcloth-fabric">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>This big beautiful Gardenia flower measures 8" x 11" at it's widest points, while the sizes varies, that measurement is of the largest flower in the print.</p>
+<p>100% Genuine Oilcloth Durable, Waterproof, Washable.</p>
+<p>Simply Wipe Clean with soapy sponge!</p>
+<p>By The Yard - 47" Wide  - $10.00</p>
+<p>By The Roll - 47" Wide - $85.00</p>
+<p>(12 yards per Roll, $7.08 per yard)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gardenia</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/2094100381793</id>
+      <title>By The Yard</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/2094100381793</id>
+      <title>By The Roll</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28364762</id>
+    <published>2019-03-16T00:33:52-05:00</published>
+    <updated>2019-03-16T00:33:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/big-flowers-and-stripes-green"/>
+    <title>Big Flowers and Stripes Green Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Floral_BigFlowers_Stripes_Green.jpg?v=1292297089"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 80.00
+            <a href="https://www.oilclothbytheyard.com/products/big-flowers-and-stripes-green">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>Large Tropical red and yellow flowers on a striped lime background!</span></div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00<br> </span></div>
+<div><span><br> </span></div>
+<div><span><span><span><span><span><span><span>By The Roll - 47" wide - $80.00<br> </span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>(12 Yards per Roll - $6.66 per Yard!)</span></span></span></span></span></span></span></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Flowers and Stripes</s:tag>
+    <s:tag>floral</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>lime</s:tag>
+    <s:tag>stripe</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28364762</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28364762</id>
+      <title>By The Roll - 47&quot; wide (12 Yards per Roll)</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>Roll</s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/1447011352673</id>
+    <published>2018-10-27T09:26:27-05:00</published>
+    <updated>2018-10-27T09:26:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/ribbons-and-flowers-gold"/>
+    <title>Ribbons and Flowers Gold</title>
+    <s:type>fabric</s:type>
+    <s:vendor>Oilcloth By The Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/IMG-4292.JPG?v=1540650710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth By The Yard<br>
+        <strong>Type: </strong>fabric<br>
+        <strong>Price: </strong>
+            10.00 - 85.00
+            <a href="https://www.oilclothbytheyard.com/products/ribbons-and-flowers-gold">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This simple but sweet bordered print has gold ribbons, bows and small flowers. </p>
+<p>100% Genuine Oilcloth, Durable, Weatherproof, Washable and Reusable. Simply wipe clean with a soapy sponge!</p>
+<p>By The Yard 47" Wide $10.00 per Yard</p>
+<p>By The Roll (12 yards) $85.00 per Roll</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ribbons and Flowers</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/1447011352673</id>
+      <title>By The Yard</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/1447011352673</id>
+      <title>By The Roll</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/1441821884513</id>
+    <published>2018-10-11T14:03:25-05:00</published>
+    <updated>2018-10-11T14:03:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/chelsea-flowers-on-lime"/>
+    <title>Chelsea Flowers on Lime</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>OilclothByTheYard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/lime_0001.jpg?v=1539912068"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OilclothByTheYard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 80.00
+            <a href="https://www.oilclothbytheyard.com/products/chelsea-flowers-on-lime">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>We just love this color way! Beautiful modern flowers on a stunning lime background are  perfect on your table or for use for all of your crafting needs.</span></div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00</span></div>
+<div><span>By The Roll - 12 Yards - $80.00</span></div>
+<div><span>(that's $6.66 per yard when you buy by the roll)</span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chelsea flowers</s:tag>
+    <s:tag>floral</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>lime</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/1441821884513</id>
+      <title>By The Yard</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/1441821884513</id>
+      <title>By The Roll</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/1441820246113</id>
+    <published>2018-10-11T14:03:25-05:00</published>
+    <updated>2018-10-11T14:03:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/chelsea-flowers-on-aqua"/>
+    <title>Chelsea Flowers on Aqua</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>OilclothByTheYard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/aqua_0001.jpg?v=1539909072"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OilclothByTheYard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 80.00
+            <a href="https://www.oilclothbytheyard.com/products/chelsea-flowers-on-aqua">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>This beautiful print of lovely flowers on a stunning aqua background are perfect on your table or for use for all of your crafting needs.</span></div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00</span></div>
+<div><span>By The Roll - 12 Yards - $80.00</span></div>
+<div>
+<meta charset="utf-8"> <span>(that's $6.66 per yard when you buy by the roll)</span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aqua</s:tag>
+    <s:tag>Chelsea flowers</s:tag>
+    <s:tag>floral</s:tag>
+    <s:tag>turquoise</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/1441820246113</id>
+      <title>By The Yard</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/1441820246113</id>
+      <title>By The Roll</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/1441804976225</id>
+    <published>2018-10-11T14:03:25-05:00</published>
+    <updated>2018-10-11T14:03:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/chelsea-flowers-on-red"/>
+    <title>Chelsea Flowers on Red</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>OilclothByTheYard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/new_print_red_0001.jpg?v=1539911987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OilclothByTheYard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 80.00
+            <a href="https://www.oilclothbytheyard.com/products/chelsea-flowers-on-red">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>Beautiful modern flowers on a stunning red background are perfect on your table or for use for all of your crafting needs.</span></div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00</span></div>
+<div><span>By The Roll - 12 Yards - $80.00</span></div>
+<div><span>(that's $6.66 per yard when you buy by the roll!)</span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chelsea flowers</s:tag>
+    <s:tag>floral</s:tag>
+    <s:tag>red</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/1441804976225</id>
+      <title>By The Yard</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/1441804976225</id>
+      <title>By The Roll</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/1441793572961</id>
+    <published>2018-10-11T14:03:25-05:00</published>
+    <updated>2018-10-11T14:03:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/chelsea-flowers-on-navy"/>
+    <title>Chelsea Flowers on Navy</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>OilclothByTheYard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/new_print_navy_0001.jpg?v=1539912027"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OilclothByTheYard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 80.00
+            <a href="https://www.oilclothbytheyard.com/products/chelsea-flowers-on-navy">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>Beautiful flowers on a gorgeous navy background are perfect on your table or for use for all of your crafting needs.</span></div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00</span></div>
+<div><span>By The Roll - 12 Yards - $80.00</span></div>
+<div><span>(that's $6.66 per yard when you buy by the roll)</span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue</s:tag>
+    <s:tag>Chelsea flowers</s:tag>
+    <s:tag>floral</s:tag>
+    <s:tag>navy</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/1441793572961</id>
+      <title>By The Yard</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/1441793572961</id>
+      <title>By The Roll</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/1441791836257</id>
+    <published>2018-10-11T14:03:25-05:00</published>
+    <updated>2018-10-11T14:03:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/chelsea-flowers-on-gold"/>
+    <title>Chelsea Flowers on Gold</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>OilclothByTheYard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/new_print_gold_0001.jpg?v=1539912097"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OilclothByTheYard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 80.00
+            <a href="https://www.oilclothbytheyard.com/products/chelsea-flowers-on-gold">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>These modern flowers on a stunning gold background are perfect on your table or for use for all of your crafting needs.</span></div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00</span></div>
+<div><span>By The Roll - 12 Yards - $80.00</span></div>
+<div><span>(that's $6.66 per yard when you buy by the roll)</span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chelsea flowers</s:tag>
+    <s:tag>floral</s:tag>
+    <s:tag>gold</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/1441791836257</id>
+      <title>By The Yard</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/1441791836257</id>
+      <title>By The Roll</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/1441790623841</id>
+    <published>2018-10-11T14:03:25-05:00</published>
+    <updated>2018-10-11T14:03:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/chelsea-flowers-on-burgundy"/>
+    <title>Chelsea Flowers on Burgundy</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>OilclothByTheYard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/new_print_burgundy_0001.jpg?v=1539912141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OilclothByTheYard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 80.00
+            <a href="https://www.oilclothbytheyard.com/products/chelsea-flowers-on-burgundy">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>These beautiful modern flowers on  stunning burgundy background are perfect on your table or for use for all of your crafting needs.</span></div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00</span></div>
+<div><span>By The Roll - 12 Yards - $80.00</span></div>
+<div>
+<meta charset="utf-8"> <span>(that's $6.66 per yard when you buy by the roll)</span>
+</div>
+<div><span></span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>burgundy</s:tag>
+    <s:tag>Chelsea flowers</s:tag>
+    <s:tag>floral</s:tag>
+    <s:tag>maroon</s:tag>
+    <s:tag>red</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/1441790623841</id>
+      <title>By The Yard</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/1441790623841</id>
+      <title>By The Roll</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/1441786691681</id>
+    <published>2018-10-11T14:03:25-05:00</published>
+    <updated>2018-10-11T14:03:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/chelsea-flowers-on-black"/>
+    <title>Chelsea Flowers on Black</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>OilclothByTheYard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/new_print_black_0001_b4d4a7ef-459e-4414-b3fa-a0618cb475e7.jpg?v=1539912183"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OilclothByTheYard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 80.00
+            <a href="https://www.oilclothbytheyard.com/products/chelsea-flowers-on-black">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>These beautiful modern flowers on a stunning black background are perfect on your table or for use for all of your crafting needs.</span></div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00</span></div>
+<div><span></span></div>
+<div><span>By The Roll - 12 Yards - $80.00</span></div>
+<div>
+<meta charset="utf-8"> <span>(that's $6.66 per yard when you buy by the roll)</span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>Chelsea flowers</s:tag>
+    <s:tag>floral</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/1441786691681</id>
+      <title>By The Yard</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/1441786691681</id>
+      <title>By The Roll</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/1441754579041</id>
+    <published>2018-10-11T14:03:25-05:00</published>
+    <updated>2018-10-11T14:03:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/chelsea-flowers-in-silver"/>
+    <title>Chelsea Flowers on Silver</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>OilclothByTheYard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/new_print_silver_0001.jpg?v=1539911951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OilclothByTheYard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 80.00
+            <a href="https://www.oilclothbytheyard.com/products/chelsea-flowers-in-silver">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>Modern flowers on stunning silver background. Perfect on your table or for use for all of your crafting needs.</span></div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00</span></div>
+<div><span>By The Roll - 12 Yards - $80.00</span></div>
+<div><span>(that's $6.66 per yard)</span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chelsea flowers</s:tag>
+    <s:tag>floral</s:tag>
+    <s:tag>silver</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/1441754579041</id>
+      <title>By The Yard</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/1441754579041</id>
+      <title>By The Roll</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28389102</id>
+    <published>2018-10-03T21:20:39-05:00</published>
+    <updated>2018-10-03T21:20:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/san-miguel-black-on-yellow"/>
+    <title>Day of the Dead Black on Yellow Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Floral_SanMiguel_BlackOnYellow.jpg?v=1539960633"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            12.95 - 85.00
+            <a href="https://www.oilclothbytheyard.com/products/san-miguel-black-on-yellow">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The YARD - 47" wide $12.95 per yard</span></div>
+<div><span>By The Roll - 12 Yards per roll $85.00</span></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>Day of the Dead</s:tag>
+    <s:tag>other</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28389102</id>
+      <title>By The Yard</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>Piece</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28389102</id>
+      <title>By The Roll</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/50948422</id>
+    <published>2018-07-11T18:41:12-05:00</published>
+    <updated>2018-07-11T18:41:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/sages-garden-royal-blue"/>
+    <title>Sage&apos;s Garden Navy Blue Oilcloth Fabric</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/Sageblue.jpg?v=1540415965"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 85.00
+            <a href="https://www.oilclothbytheyard.com/products/sages-garden-royal-blue">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>This color way is now available again!</div>
+<div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00<br> </span></div>
+<div><span><br> </span></div>
+<div><span><span><span><span><span><span><span>By The Roll - 47" wide - $85.00</span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>(12 yards on a roll)</span></span></span></span></span></span></span></div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sage&apos;s Garden</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/50948422</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/50948422</id>
+      <title>By The Roll - 47&quot; wide (12 Yards per Roll)</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>Roll</s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/28388152</id>
+    <published>2018-04-05T12:17:32-05:00</published>
+    <updated>2018-04-05T12:17:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/mum-white"/>
+    <title>Mum White Oilcloth</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/OliclothByTheYard_Floral_Mum_White.jpg?v=1540394017"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 85.00
+            <a href="https://www.oilclothbytheyard.com/products/mum-white">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span><br> </span></div>
+</div>
+<div><span>By The Yard - 47" wide - $10.00<br> </span></div>
+<div><span></span></div>
+<div><span><span><span><span><span><span><span></span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>By The Roll - 47" wide - $85.00<br> </span></span></span></span></span></span></span></div>
+<div><span><span><span><span><span><span><span>(12 Yards per Roll - $7.08 per Yard!)</span></span></span></span></span></span></span></div>
+<div>
+<meta charset="utf-8">
+<div><span></span></div>
+<div><span></span></div>
+<div><span>By The Wide Yard- 55" wide $15.99</span></div>
+</div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mum</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28388152</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Yardage</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28388152</id>
+      <title>By The Roll - 47&quot; wide (12 Yards per Roll)</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>Roll</s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/28388152</id>
+      <title>By The Wide Yard 55&quot;</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/299693834267</id>
+    <published>2017-11-07T14:28:31-06:00</published>
+    <updated>2017-11-07T14:28:31-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/flowers-on-blue-oilcloth-fabric"/>
+    <title>Flowers on Blue Oilcloth Fabric</title>
+    <s:type>fabric</s:type>
+    <s:vendor>Oilcloth By The Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/new_optical_blue.png?v=1510086634"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth By The Yard<br>
+        <strong>Type: </strong>fabric<br>
+        <strong>Price: </strong>
+            10.00 - 80.00
+            <a href="https://www.oilclothbytheyard.com/products/flowers-on-blue-oilcloth-fabric">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span>100% Genuine Oilcloth Durable, Weatherproof, Washable.</span></div>
+<div><span>Simply Wipe Clean With Soapy Sponge!</span></div>
+<div><span> </span></div>
+<div>By The Yard - 47" Wide - $10.00</div>
+</div>
+<div><span></span></div>
+<div><span>By The Roll - 47" Wide $80.00</span></div>
+<div><span>12 yards per roll $6.66 when you buy by the roll</span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/299693834267</id>
+      <title>By The Yard</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/299693834267</id>
+      <title>By The Roll</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+</feed>

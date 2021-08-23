@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.oilclothbytheyard.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.oilclothbytheyard.com/collections/chevron.atom"/>
+  <title>Oilcloth By The Yard</title>
+  <updated>2017-03-07T11:40:00-06:00</updated>
+  <author>
+    <name>Oilcloth By The Yard</name>
+  </author>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/1266608196</id>
+    <published>2017-03-07T11:40:00-06:00</published>
+    <updated>2017-03-07T11:40:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/silver-chevron-oilcloth-fabric"/>
+    <title>Silver Chevron Oilcloth Fabric</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth By The Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/Chevron_Silver_0001.png?v=1540416975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth By The Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 85.00
+            <a href="https://www.oilclothbytheyard.com/products/silver-chevron-oilcloth-fabric">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% Genuine Oilcloth Durable, Weatherproof, Washable.<br>Simply Wipe Clean With Soapy Sponge!</p>
+<p>By The Yard - 47" wide - $10.00</p>
+<p><br>By The Roll - 47" wide - $85.00<br>(12 Yards per Roll - $7.08 per Yard!)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/1266608196</id>
+      <title>By The Yard -47&quot; Wide</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/1266608196</id>
+      <title>By The Roll - 12 Yards</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/1266680260</id>
+    <published>2015-08-27T14:29:00-05:00</published>
+    <updated>2015-08-27T14:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/coral-chevron-oilcloth-fabric"/>
+    <title>Coral Chevron Oilcloth Fabric</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/Chevron_Coral_0001.png?v=1539951424"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 80.00
+            <a href="https://www.oilclothbytheyard.com/products/coral-chevron-oilcloth-fabric">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Zig Zag, Rick Rack, Chevron in coral on white</p>
+<p>100% Genuine Oilcloth Durable, Weatherproof, Washable.<br>Simply Wipe Clean With Soapy Sponge!</p>
+<p>By The Yard - 47" wide - $10.00<br><br>By The Roll - 47" wide - $80.00<br>(12 Yards per Roll - $6.66 per Yard!)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>basic</s:tag>
+    <s:tag>chevron</s:tag>
+    <s:tag>coral</s:tag>
+    <s:tag>pink</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/1266680260</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/1266680260</id>
+      <title>By The Roll 12 Yards</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/1266661060</id>
+    <published>2015-08-27T14:27:00-05:00</published>
+    <updated>2015-08-27T14:27:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/green-chevron-oilcloth-fabric"/>
+    <title>Green Chevron Oilcloth Fabric</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth By The Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/Chevron_Green_0001_138bda6a-2a11-4ba4-bfaa-6bd6c17b350d.png?v=1520557941"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth By The Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 85.00
+            <a href="https://www.oilclothbytheyard.com/products/green-chevron-oilcloth-fabric">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% Genuine Oilcloth Durable, Weatherproof, Washable.<br>Simply Wipe Clean With Soapy Sponge!</p>
+<p>By The Yard - 47" wide - $10.00<br><br>By The Roll - 47" wide - $85.00<br>(12 Yards per Roll - $7.08 per Yard!)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>zig zag</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/1266661060</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/1266661060</id>
+      <title>By The Roll - 12 Yards</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/1266595012</id>
+    <published>2015-08-27T14:15:00-05:00</published>
+    <updated>2015-08-27T14:15:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/purple-chevron-oilcloth-fabric"/>
+    <title>Purple Chevron Oilcloth Fabric</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/Chevron_Purple_0001.png?v=1540397365"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 85.00
+            <a href="https://www.oilclothbytheyard.com/products/purple-chevron-oilcloth-fabric">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% Genuine Oilcloth Durable, Weatherproof, Washable.<br>Simply Wipe Clean With Soapy Sponge!</p>
+<p>By The Yard - 47" wide - $10.00<br><br>By The Roll - 47" wide - $85.00<br>(12 Yards per Roll - $7.08 per Yard!)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/1266595012</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/1266595012</id>
+      <title>By The Roll - 12 yards</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/1266568196</id>
+    <published>2015-08-27T14:12:00-05:00</published>
+    <updated>2015-08-27T14:12:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/red-chevron-oilcloth-fabric"/>
+    <title>Red Chevron Oilcloth Fabric</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth By The Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/Chevron_Red_0001.png?v=1540397411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth By The Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 85.00
+            <a href="https://www.oilclothbytheyard.com/products/red-chevron-oilcloth-fabric">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% Genuine Oilcloth Durable, Weatherproof, Washable.<br>Simply Wipe Clean With Soapy Sponge!</p>
+<p>By The Yard - 47" wide - $10.00<br><br>By The Roll - 47" wide - $85.00<br>(12 Yards per Roll - $7.08 per Yard!)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/1266568196</id>
+      <title>By The Yard</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/1266568196</id>
+      <title>By The Roll - 12 Yards</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/1266527044</id>
+    <published>2015-08-27T14:06:00-05:00</published>
+    <updated>2015-08-27T14:06:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/orange-chevron-oilcloth-fabric"/>
+    <title>Tangerine Chevron Oilcloth Fabric</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth By The Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/chevronorange.png?v=1540478944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth By The Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 85.00
+            <a href="https://www.oilclothbytheyard.com/products/orange-chevron-oilcloth-fabric">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% Genuine Oilcloth Durable, Weatherproof, Washable.<br>Simply Wipe Clean With Soapy Sponge!</p>
+<p>By The Yard - 47" wide - $10.00<br><br>By The Roll - 47" wide - $85.00<br>(12 Yards per Roll - $7.08 per Yard!)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/1266527044</id>
+      <title>By The Yard - 47&quot;</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/1266527044</id>
+      <title>By The Roll - 12 Yards</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/1266289412</id>
+    <published>2015-08-27T13:52:00-05:00</published>
+    <updated>2015-08-27T13:52:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/chevron-oilcloth-fabric-in-blue"/>
+    <title>Chevron Oilcloth Fabric in Blue</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth by the Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/Chevron_Blue_0001.png?v=1539950114"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth by the Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 80.00
+            <a href="https://www.oilclothbytheyard.com/products/chevron-oilcloth-fabric-in-blue">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rick Rack, Zig Zag, Chevron in Blue</p>
+<p>100% Genuine Oilcloth Durable, Weatherproof, Washable.<br>Simply Wipe Clean With Soapy Sponge!</p>
+<p>By The Yard - 47" wide - $10.00<br><br>By The Roll - 47" wide - $80.00<br>(12 Yards per Roll - $6.66 per Yard!)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>basic</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>chevron</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/1266289412</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/1266289412</id>
+      <title>BY The Roll - 12 Yards</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/1265913476</id>
+    <published>2015-08-27T13:44:00-05:00</published>
+    <updated>2015-08-27T13:44:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/chevron-in-black-oilcloth-fabric"/>
+    <title>Chevron in Black Oilcloth Fabric</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth By The Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/Chevron_Black.png?v=1539950077"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth By The Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 80.00
+            <a href="https://www.oilclothbytheyard.com/products/chevron-in-black-oilcloth-fabric">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Also known as Rick Rack or Zig Zag. Black and white. </p>
+<p>100% Genuine Oilcloth Durable, Weatherproof, Washable.<br>Simply Wipe Clean With Soapy Sponge!</p>
+<p>By The Yard - 47" wide - $10.00<br><br>By The Roll - 47" wide - $80.00<br>(12 Yards per Roll - $6.66 per Yard!)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>basic</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>chevron</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/1265913476</id>
+      <title>By The Yard - 47&quot; wide</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/1265913476</id>
+      <title>By The Roll - 12 Yards</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.oilclothbytheyard.com/products/1258150276</id>
+    <published>2015-08-26T18:27:00-05:00</published>
+    <updated>2015-08-26T18:27:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.oilclothbytheyard.com/products/chevron-oilcloth-fabric-in-black"/>
+    <title>Chevron Oilcloth Fabric in Pink</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Oilcloth By The Yard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/4742/products/Chevron_Pink_0001_e11bd100-96aa-4699-996a-376c6f1c252c.png?v=1539950145"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oilcloth By The Yard<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00 - 80.00
+            <a href="https://www.oilclothbytheyard.com/products/chevron-oilcloth-fabric-in-black">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chevron, also known as ZigZag or Rick Rack. In pretty pink on white.</p>
+<p>100% Genuine Oilcloth Durable, Weatherproof, Washable.<br>Simply Wipe Clean With Soapy Sponge!</p>
+<p>By The Yard - 47" wide - $10.00<br><br>By The Roll - 47" wide - $80.00<br>(12 Yards per Roll - $6.66 per Yard!)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>basic</s:tag>
+    <s:tag>chevron</s:tag>
+    <s:tag>pink</s:tag>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/1258150276</id>
+      <title>By The Yard - 47&quot; Wide</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.oilclothbytheyard.com/products/1258150276</id>
+      <title>By The Roll - 12 Yards</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+</feed>
